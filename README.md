@@ -1,2 +1,2 @@
 # debia
-A multipurpose Discord bot
+A multipurpose Discord bot.
