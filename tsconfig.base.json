@@ -4,6 +4,8 @@
 		"useDefineForClassFields": true,
 		"declaration": true,
 		"declarationMap": true,
-		"removeComments": false
+		"removeComments": false,
+		"importHelpers": true,
+		"noEmitHelpers": false
 	}
 }

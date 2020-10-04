@@ -4,10 +4,17 @@
 	"version": "1.0.0",
 	"main": "dist/index.js",
 	"author": {
-		"name": "QuantumlyTangled",
-		"email": "yo@quantumlytangled.com",
-		"url": "https://quantumlytangled.com"
+		"name": "Rexogamer",
+		"email": "beartechtalks@gmail.com",
+		"url": "https://github.com/rexogamer"
 	},
+	"contributors": [
+		{
+			"name": "QuantumlyTangled",
+			"email": "yo@quantumlytangled.com",
+			"url": "https://quantumlytangled.com"
+		}
+	],
 	"license": "MIT",
 	"scripts": {
 		"lint": "eslint src --ext ts --fix",
@@ -26,7 +33,8 @@
 		"@scp/in17n": "^1.0.1",
 		"discord.js": "^12.3.1",
 		"i18next": "^19.8.1",
-		"module-alias": "^2.2.2"
+		"module-alias": "^2.2.2",
+		"tslib": "^2.0.1"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^11.0.0",
