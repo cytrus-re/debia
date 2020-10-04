@@ -5,7 +5,7 @@ import type { ClientOptions } from 'discord.js';
 
 import '@scp/in17n/register';
 
-export class BotClient extends SapphireClient {
+export class DebiaClient extends SapphireClient {
 
 	public constructor(options?: ClientOptions) {
 		// @ts-expect-error Type instantiation is excessively deep and possibly infinite. ts(2589)
