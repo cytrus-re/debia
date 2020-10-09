@@ -28,6 +28,8 @@ jobs:
           yarn --frozen-lockfile
       - name: Copy Config
         run: cp src/config.example.ts src/config.ts
+      - name: Build Code
+        run: "yarn run compile"
       - name: Run Coverage tests
         run: "yarn run test:coverage"
       - name: Store code coverage report
