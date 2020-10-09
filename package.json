@@ -24,7 +24,9 @@
 	"scripts": {
 		"lint": "eslint src --ext ts --fix",
 		"update": "yarn upgrade-interactive --latest",
+		"compile": "yarn build && yarn build:move:languages",
 		"build": "tsc -b src",
+		"build:move:languages": "copyfiles ./src/languages/**/*.json --up 1 ./dist/",
 		"clean": "tsc -b src --clean",
 		"watch": "tsc -b src -w",
 		"test": "jest",
