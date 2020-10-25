@@ -10,7 +10,7 @@ env:
   GCE_INSTANCE_ZONE: us-west1-b
   PROJECT_ID: ${{ secrets.GCE_PROJECT }}
   EXTERNAL_IP: ${{ secrets.EXTERNAL_IP }}
-
+  SA_KEY: ${{ secrets.GCE_SA_KEY }}
 jobs:
   gce-deploy:
     name: Deploy code to gce
@@ -26,6 +26,9 @@ jobs:
         version: '290.0.1'
         service_account_key: ${{ secrets.GCE_SA_KEY }}
         project_id: ${{ secrets.GCE_PROJECT }}
+
+    - name: Export Service Account keys
+      run: export GOOGLE_APPLICATION_CREDENTIALS=$SA_KEY
 
     - name: Install python and pip
       run: sudo apt update && sudo apt install python python-pip -y
