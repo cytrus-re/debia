@@ -39,7 +39,7 @@ jobs:
     - name: Run sample app
       run: | 
         echo -n $SA_KEY > ./SA.json
-        export GOOGLE_APPLICATION_CREDENTIALS=SA.json
+        export GOOGLE_APPLICATION_CREDENTIALS="./SA.json"
         python service_account_ssh.py \
         --cmd 'sudo apt install cowsay -y && cowsay "It works for real this time!"' \
         --project $PROJECT_ID \
