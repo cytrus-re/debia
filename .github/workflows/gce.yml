@@ -11,6 +11,7 @@ env:
   PROJECT_ID: ${{ secrets.GCE_PROJECT }}
   EXTERNAL_IP: ${{ secrets.EXTERNAL_IP }}
   SA_KEY: ${{ secrets.GCE_SA_KEY }}
+  SA_NAME: ${{ secrets.GCE_SA_NAME }}
 jobs:
   gce-deploy:
     name: Deploy code to gce
@@ -43,7 +44,8 @@ jobs:
         python service_account_ssh.py \
         --cmd 'sudo apt install cowsay -y && cowsay "It works for real this time!"' \
         --project $PROJECT_ID \
-        --hostname $EXTERNAL_IP
+        --hostname $EXTERNAL_IP \
+        --account $SA_NAME
         
         
 
