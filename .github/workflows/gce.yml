@@ -37,7 +37,11 @@ jobs:
       run: curl -O https://raw.githubusercontent.com/GoogleCloudPlatform/python-docs-samples/master/compute/oslogin/service_account_ssh.py
     
     - name: Run sample app
-      run: python service_account_ssh.py --cmd 'sudo apt install cowsay -y && cowsay "It works!"' --account gh-actions-login@$PROJECT_ID.iam.gserviceaccount.com --project $PROJECT_ID --hostname $EXTERNAL_IP
+      run: | 
+        python service_account_ssh.py \ 
+        --cmd 'sudo apt install cowsay -y && cowsay "It works!"' \
+        --project $PROJECT_ID \
+        --hostname $EXTERNAL_IP
         
         
 
