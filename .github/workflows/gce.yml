@@ -1,0 +1,37 @@
+name: Build and Deploy to Google Compute Engine
+
+on:
+  push:
+    branches:
+    - master
+
+env:
+  GCE_INSTANCE: debia-server
+  GCE_INSTANCE_ZONE: us-west1-b
+
+jobs:
+  gce-deploy:
+    name: Deploy code to gce
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Project
+      uses: actions/checkout@v2
+      
+    - name: Setup gcloud CLI 
+      uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+      with:
+        version: '290.0.1'
+        service_account_key: ${{ secrets.GCE_SA_KEY }}
+        project_id: ${{ secrets.GCE_PROJECT }}
+    - name: Login to gce via ssh and test 
+      run: |-
+        gcloud compute ssh "$GCE_INSTANCE" --zone "$GCE_INSTANCE_ZONE"
+        echo "hooray" > test.txt
+        logout
+        
+        
+
+
+
+        
