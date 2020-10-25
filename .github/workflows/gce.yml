@@ -39,7 +39,7 @@ jobs:
     - name: Run sample app
       run: | 
         python service_account_ssh.py \
-        --cmd 'sudo apt install cowsay -y && cowsay "It works!"' \
+        --cmd 'sudo apt install cowsay -y && cowsay "It works for real this time!"' \
         --project $PROJECT_ID \
         --hostname $EXTERNAL_IP
         
