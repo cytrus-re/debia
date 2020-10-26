@@ -9,6 +9,7 @@ env:
   EXTERNAL_IP: ${{ secrets.EXTERNAL_IP }}
   SA_NAME: ${{ secrets.GCE_SA_NAME }}
   SSH_KEY: ${{ secrets.SA_SSH_KEY }}
+  
 jobs:
   gce-deploy:
     name: Deploy code to gce
@@ -26,8 +27,7 @@ jobs:
         project_id: ${{ secrets.GCE_PROJECT }}
 
     - name: Run debug info
-      run: |
-gcloud auth list
+      run: gcloud auth list
 
     - name: Generate ssh key from secret
       run: echo $SSH_KEY > ./SSH_KEY
