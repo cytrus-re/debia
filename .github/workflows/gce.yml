@@ -6,12 +6,9 @@ on:
     - main
 
 env:
-  GCE_INSTANCE: debia-server
-  GCE_INSTANCE_ZONE: us-west1-b
-  PROJECT_ID: ${{ secrets.GCE_PROJECT }}
   EXTERNAL_IP: ${{ secrets.EXTERNAL_IP }}
-  SA_KEY: ${{ secrets.GCE_SA_KEY }}
   SA_NAME: ${{ secrets.GCE_SA_NAME }}
+  SSH_KEY: ${{ secrets.SA_SSH_KEY }}
 jobs:
   gce-deploy:
     name: Deploy code to gce
@@ -28,27 +25,12 @@ jobs:
         service_account_key: ${{ secrets.GCE_SA_KEY }}
         project_id: ${{ secrets.GCE_PROJECT }}
 
-    - name: Install python and pip
-      run: sudo apt update && sudo apt install python python-pip -y
+    - name: Run debug info
+      run: |
+gcloud auth list
 
-    - name: Install cloud client libraries for python
-      run: pip install --upgrade google-api-python-client
+    - name: Generate ssh key from secret
+      run: echo $SSH_KEY > ./SSH_KEY
 
-    - name: Download sample app
-      run: curl -O https://raw.githubusercontent.com/GoogleCloudPlatform/python-docs-samples/master/compute/oslogin/service_account_ssh.py
-    
-    - name: Run sample app
-      run: | 
-        echo -n $SA_KEY > ./SA.json
-        export GOOGLE_APPLICATION_CREDENTIALS="./SA.json"
-        python service_account_ssh.py \
-        --cmd 'sudo apt install cowsay -y && cowsay "It works for real this time!"' \
-        --project $PROJECT_ID \
-        --hostname $EXTERNAL_IP \
-        --account $SA_NAME
-        
-        
-
-
-
-        
+    - name: Connect to server and run test
+      run: ssh -i ./SSH_KEY $SA_NAME@$EXTERNAL_IP "echo yeet > test.txt"
