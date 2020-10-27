@@ -30,12 +30,12 @@ jobs:
     - name: Obtain Sample App
       run: curl -O https://raw.githubusercontent.com/GoogleCloudPlatform/python-docs-samples/master/compute/oslogin/service_account_ssh.py
 
-    - name: Export Service Acount Key to json file
-      run: echo ${{ secrets.GCE_SA_KEY }} > ./sa_key.json
+    - name: Decrypt Service Account Secret
+      run: ./scripts/decrypt_secret.sh
 
     - name: Connect to server and run test
       run: | 
-        export GOOGLE_APPLICATION_CREDENTIALS="./sa_key.json"
+        export GOOGLE_APPLICATION_CREDENTIALS="$HOME/secrets/GCE_SA.json"
         python service_account_ssh.py \
         --cmd 'echo test > test.txt' \
         --account ${{ secrets.GCE_SA_NAME }} \
