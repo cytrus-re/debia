@@ -35,11 +35,11 @@ jobs:
 
     - name: Connect to server and run test
       run: | 
-      export GOOGLE_APPLICATION_CREDENTIALS="./sa_key.json"
-      python service_account_ssh.py \
-      --cmd 'echo test > test.txt' \
-      --account ${{ secrets.GCE_SA_NAME }} \
-      --project ${{ secrets.GCE_PROJECT }} --hostname ${{ secrets.GCE_EXTIP }}
+        export GOOGLE_APPLICATION_CREDENTIALS="./sa_key.json"
+        python service_account_ssh.py \
+        --cmd 'echo test > test.txt' \
+        --account ${{ secrets.GCE_SA_NAME }} \
+        --project ${{ secrets.GCE_PROJECT }} --hostname ${{ secrets.GCE_EXTIP }}
 
 
       
