@@ -32,7 +32,7 @@ jobs:
 
     - name: Decrypt Service Account Secret
       env:
-        SA_KEY: ${{ secrets.SA_KEY }}
+        SA_KEY: ${{ secrets.GCE_SA_KEY }}
       run: ./scripts/decrypt_secret.sh
 
     - name: Connect to server and run test
