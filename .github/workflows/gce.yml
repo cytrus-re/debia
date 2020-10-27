@@ -31,11 +31,11 @@ jobs:
       run: curl -O https://raw.githubusercontent.com/GoogleCloudPlatform/python-docs-samples/master/compute/oslogin/service_account_ssh.py
 
     - name: Decrypt Service Account Secret
+      env:
+        SA_KEY: ${{ secrets.SA_KEY }}
       run: ./scripts/decrypt_secret.sh
 
     - name: Connect to server and run test
-      env:
-        SA_KEY: ${{ secrets.SA_KEY }}
       run: | 
         export GOOGLE_APPLICATION_CREDENTIALS="$HOME/secrets/GCE_SA.json"
         python service_account_ssh.py \
