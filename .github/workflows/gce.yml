@@ -5,11 +5,6 @@ on:
     branches:
     - main
 
-env:
-  EXTERNAL_IP: ${{ secrets.EXTERNAL_IP }}
-  SA_NAME: ${{ secrets.GCE_SA_NAME }}
-  SSH_KEY: ${{ secrets.SA_SSH_KEY }}
-  
 jobs:
   gce-deploy:
     name: Deploy code to gce
@@ -25,12 +20,26 @@ jobs:
         version: '290.0.1'
         service_account_key: ${{ secrets.GCE_SA_KEY }}
         project_id: ${{ secrets.GCE_PROJECT }}
+    
+    - name: Install Python and pip
+      run: sudo apt update && sudo apt install python python-pip -y
 
-    - name: Run debug info
-      run: gcloud auth list
+    - name: Install Cloud Client Libraries for Python
+      run: pip install --upgrade google-api-python-client
 
-    - name: Generate ssh key from secret
-      run: echo $SSH_KEY > ./SSH_KEY
+    - name: Obtain Sample App
+      run: curl -O https://raw.githubusercontent.com/GoogleCloudPlatform/python-docs-samples/master/compute/oslogin/service_account_ssh.py
+
+    - name: Export Service Acount Key to json file
+      run: echo ${{ secrets.GCE_SA_KEY }} > ./sa_key.json
 
     - name: Connect to server and run test
-      run: ssh -i ./SSH_KEY $SA_NAME@$EXTERNAL_IP "echo yeet > test.txt"
+      run: | 
+      export GOOGLE_APPLICATION_CREDENTIALS="./sa_key.json"
+      python service_account_ssh.py \
+      --cmd 'echo test > test.txt' \
+      --account ${{ secrets.GCE_SA_NAME }} \
+      --project ${{ secrets.GCE_PROJECT }} --hostname ${{ secrets.GCE_EXTIP }}
+
+
+      
