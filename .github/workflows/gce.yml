@@ -35,13 +35,10 @@ jobs:
         SA_KEY: ${{ secrets.GCE_SA_KEY }}
       run: ./scripts/decrypt_secret.sh
 
-    - name: Connect to server and run test
+    - name: Connect to Server and Run Script
       run: | 
         export GOOGLE_APPLICATION_CREDENTIALS="$HOME/secrets/GCE_SA.json"
         python service_account_ssh.py \
-        --cmd 'echo test > test.txt' \
+        --cmd 'debia/scripts/get_changes.sh' \
         --account ${{ secrets.GCE_SA_NAME }} \
         --project ${{ secrets.GCE_PROJECT }} --hostname ${{ secrets.GCE_EXTIP }}
-
-
-      
