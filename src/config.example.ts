@@ -3,7 +3,7 @@ import type { ClientOptions } from 'discord.js';
 
 export const DEV = 'DEV' in process.env ? process.env.DEV === 'true' : !('PM2_HOME' in process.env);
 
-export const BOT_TOKEN = '';
+export const { BOT_TOKEN } = process.env;
 
 export const CLIENT_OPTIONS: ClientOptions = { };
 
