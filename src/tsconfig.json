@@ -16,5 +16,6 @@
 		"esModuleInterop": true,
 		"removeComments": true
 	},
-	"include": ["."]
+	"include": ["."],
+	"exclude": ["config.example.ts"]
 }
