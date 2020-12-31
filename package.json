@@ -31,7 +31,9 @@
 		"watch": "tsc -b src -w",
 		"test": "jest",
 		"test:coverage": "jest --coverage",
-		"sversion": "yarn standard-version"
+		"sversion": "yarn standard-version",
+		"start": "node dist/index.js",
+		"start-watch": "pm2 start dist/index.js --watch"
 	},
 	"dependencies": {
 		"@sapphire/framework": "sapphire-project/framework#build",
@@ -41,6 +43,7 @@
 		"discord.js": "^12.3.1",
 		"i18next": "^19.8.1",
 		"module-alias": "^2.2.2",
+		"pm2": "^4.5.1",
 		"tslib": "^2.0.1"
 	},
 	"devDependencies": {
