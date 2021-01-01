@@ -14,7 +14,7 @@
 		"sourceMap": true,
 		"inlineSources": true,
 		"esModuleInterop": true,
-		"removeComments": true
+		"removeComments": false
 	},
 	"include": ["."],
 	"exclude": ["config.example.ts"]
