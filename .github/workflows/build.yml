@@ -11,6 +11,7 @@ on:
       - 'README.md'
       - 'tsconfig.base.json'
       - 'tsconfig.eslint.json'
+      - 'Dockerfile'
 
 jobs:
   Build:
