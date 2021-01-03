@@ -1,4 +1,5 @@
 {
+	"target": "ES2020",
 	"extends": "../tsconfig.base.json",
 	"compilerOptions": {
 		"outDir": "../dist",
