@@ -2,8 +2,8 @@
   "program": {
     "fileInfos": {
       "../node_modules/typescript/lib/lib.es5.d.ts": {
-        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
-        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "version": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
+        "signature": "9622e8bd7cc72a7dab819a8011ecbf81d443638082e5cb99ecf2e75ff56ffc9d",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2015.d.ts": {
@@ -32,13 +32,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/typescript/lib/lib.es2020.d.ts": {
-        "version": "666172ccd045546f9b6d099744da9b822357e393c9fe67c34d3f44eabdf15723",
-        "signature": "666172ccd045546f9b6d099744da9b822357e393c9fe67c34d3f44eabdf15723",
+        "version": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
+        "signature": "e21c071ca3e1b4a815d5f04a7475adcaeea5d64367e840dd0154096d705c3940",
         "affectsGlobalScope": false
       },
       "../node_modules/typescript/lib/lib.esnext.d.ts": {
-        "version": "2f8f379dedbdbd96a38a1e445cb3919853a1157a950fd977f85808db8d0f8a58",
-        "signature": "2f8f379dedbdbd96a38a1e445cb3919853a1157a950fd977f85808db8d0f8a58",
+        "version": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
+        "signature": "fc7a21dd3ee27fd0a9ff1c46534efcd9c3cec51a445b479bb326d871c0aa8302",
         "affectsGlobalScope": false
       },
       "../node_modules/typescript/lib/lib.es2015.core.d.ts": {
@@ -57,18 +57,18 @@
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
-        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
-        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "version": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
+        "signature": "8b2a5df1ce95f78f6b74f1a555ccdb6baab0486b42d8345e0871dd82811f9b9a",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2015.promise.d.ts": {
-        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
-        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "version": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
+        "signature": "2bb4b3927299434052b37851a47bf5c39764f2ba88a888a107b32262e9292b7c",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
-        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
-        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "version": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
+        "signature": "7207e317a2cb07a177e7d963ab7b8c0e85dde7f9ddb50351f830239bf597569e",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
@@ -82,8 +82,8 @@
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
-        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
-        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "version": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
+        "signature": "9d122b7e8c1a5c72506eea50c0973cba55b92b5532d5cafa8a6ce2c547d57551",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
@@ -97,8 +97,8 @@
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
-        "version": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
-        "signature": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "version": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
+        "signature": "7ce9f0bde3307ca1f944119f6365f2d776d281a393b576a18a2f2893a2d75c98",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2017.string.d.ts": {
@@ -171,6 +171,11 @@
         "signature": "7435b75fdf3509622e79622dbe5091cf4b09688410ee2034e4fc17d0c99d0862",
         "affectsGlobalScope": true
       },
+      "../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts": {
+        "version": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "signature": "e7e8e1d368290e9295ef18ca23f405cf40d5456fa9f20db6373a61ca45f75f40",
+        "affectsGlobalScope": true
+      },
       "../node_modules/typescript/lib/lib.es2020.string.d.ts": {
         "version": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
         "signature": "faf0221ae0465363c842ce6aa8a0cbda5d9296940a8e26c86e04cc4081eea21e",
@@ -182,8 +187,8 @@
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.es2020.intl.d.ts": {
-        "version": "905b020308ed3bd9cd2457f5a4def1844620d48020cec405cafb4e86b3194af1",
-        "signature": "905b020308ed3bd9cd2457f5a4def1844620d48020cec405cafb4e86b3194af1",
+        "version": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
+        "signature": "31e8df2398e328077079c17ea4f1664bad0a34adf8b0608837e504e310e329a1",
         "affectsGlobalScope": true
       },
       "../node_modules/typescript/lib/lib.esnext.intl.d.ts": {
@@ -201,6 +206,11 @@
         "signature": "cd6efb9467a8b6338ece2e2855e37765700f2cd061ca54b01b33878cf5c7677e",
         "affectsGlobalScope": true
       },
+      "../node_modules/typescript/lib/lib.esnext.weakref.d.ts": {
+        "version": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "signature": "1e61418f41d404e744b6536af9f8c6f6674dd4d54c12335cd0c4f7eded69cf3f",
+        "affectsGlobalScope": true
+      },
       "../node_modules/tslib/tslib.d.ts": {
         "version": "9eb0ae9fa333acfc2dcbe6a7eaa2ab8be46b97ca259982c797c39167823235d5",
         "signature": "9eb0ae9fa333acfc2dcbe6a7eaa2ab8be46b97ca259982c797c39167823235d5",
@@ -212,8 +222,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/globals.d.ts": {
-        "version": "68aba9c37b535b42ce96b78a4cfa93813bf4525f86dceb88a6d726c5f7c6c14f",
-        "signature": "68aba9c37b535b42ce96b78a4cfa93813bf4525f86dceb88a6d726c5f7c6c14f",
+        "version": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
+        "signature": "215d8d9a2c480fd460127edc048d68d9931d3b27f95132253a6e71975f060bb1",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/async_hooks.d.ts": {
@@ -227,8 +237,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/child_process.d.ts": {
-        "version": "1fc4b0908c44f39b1f2e5a728d472670a0ea0970d2c6b5691c88167fe541ff82",
-        "signature": "1fc4b0908c44f39b1f2e5a728d472670a0ea0970d2c6b5691c88167fe541ff82",
+        "version": "987249e7b75023387c5fd9dc2f959ee777cb8989b7900f5a9eb4a67d290f2cba",
+        "signature": "987249e7b75023387c5fd9dc2f959ee777cb8989b7900f5a9eb4a67d290f2cba",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/cluster.d.ts": {
@@ -237,8 +247,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/console.d.ts": {
-        "version": "51851805d06a6878796c3a00ccf0839fe18111a38d1bae84964c269f16bcc2b7",
-        "signature": "51851805d06a6878796c3a00ccf0839fe18111a38d1bae84964c269f16bcc2b7",
+        "version": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
+        "signature": "eb5197aade83cb0e360ac407289c53a8009e8fdae7939892a0240d30444496b6",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/constants.d.ts": {
@@ -247,13 +257,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/crypto.d.ts": {
-        "version": "c5ecc351d5eaa36dc682b4c398b57a9d37c108857b71a09464a06e0185831ac2",
-        "signature": "c5ecc351d5eaa36dc682b4c398b57a9d37c108857b71a09464a06e0185831ac2",
+        "version": "75d76be86ffc40ae985ebace0cbd2c79b1e10c224c925d91f4df5a2705cc3f76",
+        "signature": "75d76be86ffc40ae985ebace0cbd2c79b1e10c224c925d91f4df5a2705cc3f76",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/dgram.d.ts": {
-        "version": "7ecfe97b43aa6c8b8f90caa599d5648bb559962e74e6f038f73a77320569dd78",
-        "signature": "7ecfe97b43aa6c8b8f90caa599d5648bb559962e74e6f038f73a77320569dd78",
+        "version": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
+        "signature": "7e050b767ed10c7ffbc01f314defbf420bf0b5d54ce666e1c87507c035dfc191",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/dns.d.ts": {
@@ -267,28 +277,28 @@
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/events.d.ts": {
-        "version": "072b0ac82ae8fe05b0d4f2eadb7f6edd0ebd84175ecad2f9e09261290a86bcee",
-        "signature": "072b0ac82ae8fe05b0d4f2eadb7f6edd0ebd84175ecad2f9e09261290a86bcee",
+        "version": "365e8358843a23944be84b810b1f774ea0223adfccc085f30fd7f4c13dc8a09f",
+        "signature": "365e8358843a23944be84b810b1f774ea0223adfccc085f30fd7f4c13dc8a09f",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/fs.d.ts": {
-        "version": "f6eedd1053167b8a651d8d9c70b1772e1b501264a36dfa881d7d4b30d623a9bc",
-        "signature": "f6eedd1053167b8a651d8d9c70b1772e1b501264a36dfa881d7d4b30d623a9bc",
+        "version": "80b94a222a5e83289583833de76f8b3a5962ec4c3803690e20c875a2776ddfdc",
+        "signature": "80b94a222a5e83289583833de76f8b3a5962ec4c3803690e20c875a2776ddfdc",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/fs/promises.d.ts": {
-        "version": "fb28748ff8d015f52e99daee4f454e57cec1a22141f1257c317f3630a15edeb7",
-        "signature": "fb28748ff8d015f52e99daee4f454e57cec1a22141f1257c317f3630a15edeb7",
+        "version": "05b5679a897598ebe556ee93415b3af1f456e674ea82e4d7afcd716bfe43aa98",
+        "signature": "05b5679a897598ebe556ee93415b3af1f456e674ea82e4d7afcd716bfe43aa98",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/http.d.ts": {
-        "version": "08fb2b0e1ef13a2df43f6d8e97019c36dfbc0475cf4d274c6838e2c9223fe39d",
-        "signature": "08fb2b0e1ef13a2df43f6d8e97019c36dfbc0475cf4d274c6838e2c9223fe39d",
+        "version": "35fe02b2c10616cc7ac3db9c15778df7ed9c99276889efdd9be31f342841cfcd",
+        "signature": "35fe02b2c10616cc7ac3db9c15778df7ed9c99276889efdd9be31f342841cfcd",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/http2.d.ts": {
-        "version": "5d9394b829cfd504b2fe17287aaad8ce1dcfb2a2183c962a90a85b96da2c1c90",
-        "signature": "5d9394b829cfd504b2fe17287aaad8ce1dcfb2a2183c962a90a85b96da2c1c90",
+        "version": "f15f1f1104aaf47d25124de81949375416e3f8ee704e3d221bea339e35421edb",
+        "signature": "f15f1f1104aaf47d25124de81949375416e3f8ee704e3d221bea339e35421edb",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/https.d.ts": {
@@ -307,8 +317,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/net.d.ts": {
-        "version": "46cac76114704902baa535b30fb66a26aeaf9430f3b3ab44746e329f12e85498",
-        "signature": "46cac76114704902baa535b30fb66a26aeaf9430f3b3ab44746e329f12e85498",
+        "version": "8de97668870cfb20fc9d355d2ef379e897bdd8a98c889c7d8a6de40ee408ad52",
+        "signature": "8de97668870cfb20fc9d355d2ef379e897bdd8a98c889c7d8a6de40ee408ad52",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/os.d.ts": {
@@ -322,18 +332,18 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/perf_hooks.d.ts": {
-        "version": "6999f789ed86a40f3bc4d7e644e8d42ffda569465969df8077cd6c4e3505dd76",
-        "signature": "6999f789ed86a40f3bc4d7e644e8d42ffda569465969df8077cd6c4e3505dd76",
+        "version": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
+        "signature": "4982d94cb6427263c8839d8d6324a8bbe129e931deb61a7380f8fad17ba2cfc0",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/process.d.ts": {
-        "version": "0c9f2b308e5696d0802b613aff47c99f092add29408e654f7ab6026134250c18",
-        "signature": "0c9f2b308e5696d0802b613aff47c99f092add29408e654f7ab6026134250c18",
+        "version": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
+        "signature": "ae4bc1dd4d9de7bbea6ce419db45af82a81358e6014c9e1235b5d252e06f8ab8",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/node/punycode.d.ts": {
-        "version": "4a9008d79750801375605e6cfefa4e04643f20f2aaa58404c6aae1c894e9b049",
-        "signature": "4a9008d79750801375605e6cfefa4e04643f20f2aaa58404c6aae1c894e9b049",
+        "version": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
+        "signature": "3f6a1fd73c9dc3bd7f4b79bc075297ca6527904df69b0f2c2c94e4c4c7d9a32c",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/querystring.d.ts": {
@@ -347,13 +357,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/repl.d.ts": {
-        "version": "dd3706b25d06fe23c73d16079e8c66ac775831ef419da00716bf2aee530a04a4",
-        "signature": "dd3706b25d06fe23c73d16079e8c66ac775831ef419da00716bf2aee530a04a4",
+        "version": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
+        "signature": "acbed967a379b3e9f73237ba9473f8b337eeea14b7dc64d445430b5d695751da",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/stream.d.ts": {
-        "version": "1298327149e93a60c24a3b5db6048f7cc8fd4e3259e91d05fc44306a04b1b873",
-        "signature": "1298327149e93a60c24a3b5db6048f7cc8fd4e3259e91d05fc44306a04b1b873",
+        "version": "272a46cc8f494677af587d17939e61e7db2b1925633e4da0c186ba17f6732521",
+        "signature": "272a46cc8f494677af587d17939e61e7db2b1925633e4da0c186ba17f6732521",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/string_decoder.d.ts": {
@@ -367,8 +377,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/tls.d.ts": {
-        "version": "3181290a158e54a78c1a57c41791ec1cbdc860ae565916daa1bf4e425b7edac7",
-        "signature": "3181290a158e54a78c1a57c41791ec1cbdc860ae565916daa1bf4e425b7edac7",
+        "version": "c52eb62e3388a01b966c57bd14ca0ee9d5f6e656d6a18f6ce6b7cdece63734a3",
+        "signature": "c52eb62e3388a01b966c57bd14ca0ee9d5f6e656d6a18f6ce6b7cdece63734a3",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/trace_events.d.ts": {
@@ -382,13 +392,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/url.d.ts": {
-        "version": "826d48e49c905cedb906cbde6ccaf758827ff5867d4daa006b5a79e0fb489357",
-        "signature": "826d48e49c905cedb906cbde6ccaf758827ff5867d4daa006b5a79e0fb489357",
+        "version": "80ffc1786a5dab91b4aa59a72720f02f25df8b7c76b593e04d5e381aec284ccb",
+        "signature": "80ffc1786a5dab91b4aa59a72720f02f25df8b7c76b593e04d5e381aec284ccb",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/util.d.ts": {
-        "version": "5ef157fbb39494a581bd24f21b60488fe248d452c479738b5e41b48720ea69b8",
-        "signature": "5ef157fbb39494a581bd24f21b60488fe248d452c479738b5e41b48720ea69b8",
+        "version": "f28704c27e1bd58068052f5407541a3306f0ffc77f068e2891f46527a4569e25",
+        "signature": "f28704c27e1bd58068052f5407541a3306f0ffc77f068e2891f46527a4569e25",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/v8.d.ts": {
@@ -397,18 +407,18 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/vm.d.ts": {
-        "version": "a1136cf18dbe1b9b600c65538fd48609a1a4772d115a0c1d775839fe6544487c",
-        "signature": "a1136cf18dbe1b9b600c65538fd48609a1a4772d115a0c1d775839fe6544487c",
+        "version": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
+        "signature": "baf0b82ffc5d2616f44a6fb1f81e8d798545bebf0c30f5d8b003a1dba1acfb3f",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/worker_threads.d.ts": {
-        "version": "24638ed25631a94a9b0d7b580b146329f82e158e8d1e90171a73d87bebf79255",
-        "signature": "24638ed25631a94a9b0d7b580b146329f82e158e8d1e90171a73d87bebf79255",
+        "version": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
+        "signature": "c6a5b34f1e725019445754f1e733585f113e0dced75f137bd3c4af5853d3f6ab",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/zlib.d.ts": {
-        "version": "638f49a0db5d30977533a8cfabf3e10ab30724360424698e8d5fd41ca272e070",
-        "signature": "638f49a0db5d30977533a8cfabf3e10ab30724360424698e8d5fd41ca272e070",
+        "version": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
+        "signature": "15fbe50526244954eb2f933546bca6cdcf0db16c9428d099b3b386c1db5799ab",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/ts3.4/base.d.ts": {
@@ -427,33 +437,33 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/ts3.6/base.d.ts": {
-        "version": "0f04bc8950ad634ac8ac70f704f200ef06f8852af9017f97c446de4def5b3546",
-        "signature": "0f04bc8950ad634ac8ac70f704f200ef06f8852af9017f97c446de4def5b3546",
+        "version": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
+        "signature": "ad1ae5ae98eceb9af99061e83e867b9897d267aebc8f3b938c9424deabadf4bb",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/assert.d.ts": {
-        "version": "d0c575d48d6dad75648017ff18762eb97f9398cc9486541b3070e79ce12719e6",
-        "signature": "d0c575d48d6dad75648017ff18762eb97f9398cc9486541b3070e79ce12719e6",
+        "version": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
+        "signature": "b3593bd345ebea5e4d0a894c03251a3774b34df3d6db57075c18e089a599ba76",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/base.d.ts": {
-        "version": "d20072cb51d8baad944bedd935a25c7f10c29744e9a648d2c72c215337356077",
-        "signature": "d20072cb51d8baad944bedd935a25c7f10c29744e9a648d2c72c215337356077",
+        "version": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
+        "signature": "e61a21e9418f279bc480394a94d1581b2dee73747adcbdef999b6737e34d721b",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/node/index.d.ts": {
-        "version": "35cbbc58882d2c158032d7f24ba8953d7e1caeb8cb98918d85819496109f55d2",
-        "signature": "35cbbc58882d2c158032d7f24ba8953d7e1caeb8cb98918d85819496109f55d2",
+        "version": "5825520e2099309182c6e2a2b3061b060d42a098c58f67d1754880a7e2cce99a",
+        "signature": "5825520e2099309182c6e2a2b3061b060d42a098c58f67d1754880a7e2cce99a",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/ws/index.d.ts": {
-        "version": "30ce0ba2c80c39007ab8e0132807437b4eb58ff73461e1602e2e2bf07b6416ed",
-        "signature": "30ce0ba2c80c39007ab8e0132807437b4eb58ff73461e1602e2e2bf07b6416ed",
+        "version": "c6e185824cae1ddea6706f4256d4bd499e8e9a37ed10689946c22984d68798c3",
+        "signature": "c6e185824cae1ddea6706f4256d4bd499e8e9a37ed10689946c22984d68798c3",
         "affectsGlobalScope": false
       },
       "../node_modules/discord.js/typings/index.d.ts": {
-        "version": "453abbd598aa3aeac131ddad5e17dcf7aa29c38dd3da1aaad47adb619900896a",
-        "signature": "453abbd598aa3aeac131ddad5e17dcf7aa29c38dd3da1aaad47adb619900896a",
+        "version": "bbb87411988e93370461ac33c6437098c8cd39e9a7c92ea0d94b6a375dbe52cc",
+        "signature": "bbb87411988e93370461ac33c6437098c8cd39e9a7c92ea0d94b6a375dbe52cc",
         "affectsGlobalScope": true
       },
       "../src/config.ts": {
@@ -461,89 +471,9 @@
         "signature": "1a520ddc92f8fae1aefe182f889e5f31a407cdc9331114daa4b960d1a4faccda",
         "affectsGlobalScope": false
       },
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts": {
-        "version": "ba060b0cdeb240d55d67d524a51d12c9e00198c7f38c2a7f44107d026e992be8",
-        "signature": "ba060b0cdeb240d55d67d524a51d12c9e00198c7f38c2a7f44107d026e992be8",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/Shared.d.ts": {
-        "version": "1a84afff8894517b9e3dd7ea9d52798e9c8c618e301eb060db281b403f5c023a",
-        "signature": "1a84afff8894517b9e3dd7ea9d52798e9c8c618e301eb060db281b403f5c023a",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts": {
-        "version": "7ab6fa8f8fb219183631c55780d33db7bde09716b9638191192ec44bf879c5c6",
-        "signature": "7ab6fa8f8fb219183631c55780d33db7bde09716b9638191192ec44bf879c5c6",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts": {
-        "version": "7c094a08113cee125c9cb2a226cfd5075a7b893e54e4333f61bb6a75e7b9529f",
-        "signature": "7c094a08113cee125c9cb2a226cfd5075a7b893e54e4333f61bb6a75e7b9529f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts": {
-        "version": "4ef9bda24b2cb0f7882e2cb55eef6a387f42654a8ac8207e22202a26efbf1fc7",
-        "signature": "4ef9bda24b2cb0f7882e2cb55eef6a387f42654a8ac8207e22202a26efbf1fc7",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts": {
-        "version": "fc5c8669f222e8ec99da61a6f872becefcb1401124cb0d6025f1ab2c385fa767",
-        "signature": "fc5c8669f222e8ec99da61a6f872becefcb1401124cb0d6025f1ab2c385fa767",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/AliasStore.d.ts": {
-        "version": "2b5a4c62d5ef574be422824782eeb7b5910e14b3754d7c7ae3075c66466df283",
-        "signature": "2b5a4c62d5ef574be422824782eeb7b5910e14b3754d7c7ae3075c66466df283",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/errors/LoaderError.d.ts": {
-        "version": "dfa9ca287dac217afd4fd6f8090834b3558a4ef32f9333358214d210cc5ea83c",
-        "signature": "dfa9ca287dac217afd4fd6f8090834b3558a4ef32f9333358214d210cc5ea83c",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/errors/MissingExportsError.d.ts": {
-        "version": "50f04e8654d013809df669d32724b22525f106993d20f3f75eccfde754c3bfd8",
-        "signature": "50f04e8654d013809df669d32724b22525f106993d20f3f75eccfde754c3bfd8",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/LoadJavaScript.d.ts": {
-        "version": "8c5412b256ed255f9943193f030912cff28cc1d21d8eaffd899ad502edbc8d0b",
-        "signature": "8c5412b256ed255f9943193f030912cff28cc1d21d8eaffd899ad502edbc8d0b",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadMultiple.d.ts": {
-        "version": "e05fc036c5829183c29f9a1bbcb065250b662ee79e39ca2edcb712f0b055c1c1",
-        "signature": "e05fc036c5829183c29f9a1bbcb065250b662ee79e39ca2edcb712f0b055c1c1",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadSingle.d.ts": {
-        "version": "2ce05593dffce10a2ba27ca79637b3dbe751d19300289b5363da77c2cf029b4d",
-        "signature": "2ce05593dffce10a2ba27ca79637b3dbe751d19300289b5363da77c2cf029b4d",
-        "affectsGlobalScope": false
-      },
       "../node_modules/@sapphire/pieces/dist/index.d.ts": {
-        "version": "47b9e7168286487757f5d7a016cd669080201bcc054e8a7b9402fbaf250f68eb",
-        "signature": "47b9e7168286487757f5d7a016cd669080201bcc054e8a7b9402fbaf250f68eb",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts": {
-        "version": "f4a595bdb04795ac41465d07f48bbe77f74bb83e9983568f1a93b8587662d32f",
-        "signature": "f4a595bdb04795ac41465d07f48bbe77f74bb83e9983568f1a93b8587662d32f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts": {
-        "version": "b306300a497dc4c323d0fc7b3eae3692bea87fb85a640c1f3ef594d999206779",
-        "signature": "b306300a497dc4c323d0fc7b3eae3692bea87fb85a640c1f3ef594d999206779",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts": {
-        "version": "4c7fc34ece2baf0a1f0a818226012618c25a3f28223203048ffc920099b6dd2c",
-        "signature": "4c7fc34ece2baf0a1f0a818226012618c25a3f28223203048ffc920099b6dd2c",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts": {
-        "version": "c3f5f16be5709bb33291f8cb789128370f6922c7fda33001513c6f6ea9f8db33",
-        "signature": "c3f5f16be5709bb33291f8cb789128370f6922c7fda33001513c6f6ea9f8db33",
+        "version": "3339fc46b36d834d0d0a2efeadcc26a042ac838f205b062c5421a2c1c2be9aa0",
+        "signature": "3339fc46b36d834d0d0a2efeadcc26a042ac838f205b062c5421a2c1c2be9aa0",
         "affectsGlobalScope": false
       },
       "../node_modules/lexure/dist/types/tokens.d.ts": {
@@ -606,164 +536,9 @@
         "signature": "4a1c4bd7d4b874418c8958e8c4f9ff1ba4cae77748897260fa2263d8d94f06aa",
         "affectsGlobalScope": false
       },
-      "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts": {
-        "version": "7b3d79eab455d2c9ca50169c1227a99c79c5d099ad83d8d3d115cb05f8ec7963",
-        "signature": "7b3d79eab455d2c9ca50169c1227a99c79c5d099ad83d8d3d115cb05f8ec7963",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts": {
-        "version": "adf1879aba03b5e2b47a48fd60baeebad802f86ae5685446f26b6376230559cd",
-        "signature": "adf1879aba03b5e2b47a48fd60baeebad802f86ae5685446f26b6376230559cd",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/errors/PreconditionError.d.ts": {
-        "version": "e0cbe717e98ff681bda590aec51cffb68b7f360e1fb0d3793e3ba0a3f48b9eca",
-        "signature": "e0cbe717e98ff681bda590aec51cffb68b7f360e1fb0d3793e3ba0a3f48b9eca",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts": {
-        "version": "9da6585c06d43fd162fe27cbbc51d77f31315d4dc4ebe8560a6f1b0d102522ff",
-        "signature": "9da6585c06d43fd162fe27cbbc51d77f31315d4dc4ebe8560a6f1b0d102522ff",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts": {
-        "version": "07363ada991fe69e724782a84d29daa69d2e71f0da198245b6255bc1ca02947e",
-        "signature": "07363ada991fe69e724782a84d29daa69d2e71f0da198245b6255bc1ca02947e",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts": {
-        "version": "6c6887514860405e8552a77a00dbffebf47316e5b892d2156cbefd11bda0b43d",
-        "signature": "6c6887514860405e8552a77a00dbffebf47316e5b892d2156cbefd11bda0b43d",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts": {
-        "version": "2f78fe581a4f4f1281369ae25897555f95d998262a4d80ca2e169389f55c693a",
-        "signature": "2f78fe581a4f4f1281369ae25897555f95d998262a4d80ca2e169389f55c693a",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts": {
-        "version": "ea38c7463357f422fa160ba05de67a4e36fecc0bfa7a3ea279255d3f9696f43c",
-        "signature": "ea38c7463357f422fa160ba05de67a4e36fecc0bfa7a3ea279255d3f9696f43c",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/strategies/FlagUnorderedStrategy.d.ts": {
-        "version": "8e65131158ef80ddc615a4ba7ec3737a4fbbda0821a5a7295d4766d473ede976",
-        "signature": "8e65131158ef80ddc615a4ba7ec3737a4fbbda0821a5a7295d4766d473ede976",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts": {
-        "version": "8615277bedf51ae22f3419effd6c53764ae4a3ec6e37c735f38e7f79073a1be5",
-        "signature": "8615277bedf51ae22f3419effd6c53764ae4a3ec6e37c735f38e7f79073a1be5",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts": {
-        "version": "ce11e2d981bfa73335bb49b202bef466b31792be13320ba81399336a7d59853f",
-        "signature": "ce11e2d981bfa73335bb49b202bef466b31792be13320ba81399336a7d59853f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts": {
-        "version": "4305e737f5b36173abdb2d12f5a1e397f43d39a995a7a72f8c842e9e7febe460",
-        "signature": "4305e737f5b36173abdb2d12f5a1e397f43d39a995a7a72f8c842e9e7febe460",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts": {
-        "version": "231bcf1f06521c5e9669c3f26aa4820dc4efc8cb89533a18abafb470570c34a0",
-        "signature": "231bcf1f06521c5e9669c3f26aa4820dc4efc8cb89533a18abafb470570c34a0",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts": {
-        "version": "d87dd4d779cdbf01cad7ebb43d75a799eee7fc7be2a60820ee59a219fe84e136",
-        "signature": "d87dd4d779cdbf01cad7ebb43d75a799eee7fc7be2a60820ee59a219fe84e136",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts": {
-        "version": "6b9a7239e299f5d57735f505768d3761ff3b25fb0f07ce9fb9d9a69e85d30fa7",
-        "signature": "6b9a7239e299f5d57735f505768d3761ff3b25fb0f07ce9fb9d9a69e85d30fa7",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts": {
-        "version": "8745f8821fa735bf0faa392f990ea6d14dda6a66151cd656a7e0715e6271e2b2",
-        "signature": "8745f8821fa735bf0faa392f990ea6d14dda6a66151cd656a7e0715e6271e2b2",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts": {
-        "version": "a08680821307cc57625959f2869fd76328f001761d0a1ff13aeb34ebb42aa3c2",
-        "signature": "a08680821307cc57625959f2869fd76328f001761d0a1ff13aeb34ebb42aa3c2",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts": {
-        "version": "9e2911e366c41eacd273a7e51a9e647f8e9090e12a0b764fbbe6463a31257788",
-        "signature": "9e2911e366c41eacd273a7e51a9e647f8e9090e12a0b764fbbe6463a31257788",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts": {
-        "version": "7ce5a2ff4259fb75eed897213e53fa3ce66b827720ac285487d2c60cb0534905",
-        "signature": "7ce5a2ff4259fb75eed897213e53fa3ce66b827720ac285487d2c60cb0534905",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts": {
-        "version": "624b0b0f088e3e0c716c5dcbe7c68d45cff62815528b93cb26706c0d69f2bbb4",
-        "signature": "624b0b0f088e3e0c716c5dcbe7c68d45cff62815528b93cb26706c0d69f2bbb4",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts": {
-        "version": "4a06fb618ad48b58e017ef2de7f8aa827ff33d266783c61c21b68c7b7c1141cf",
-        "signature": "4a06fb618ad48b58e017ef2de7f8aa827ff33d266783c61c21b68c7b7c1141cf",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts": {
-        "version": "bb1aabd85898145f43a295ffd51ab2c45b38a275f3422b4cc094f5d2ed8f8f1e",
-        "signature": "bb1aabd85898145f43a295ffd51ab2c45b38a275f3422b4cc094f5d2ed8f8f1e",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts": {
-        "version": "fe34f9ba51fa89b5f7ecbe69aa028e876a05656860d730dc155dcca2960967ae",
-        "signature": "fe34f9ba51fa89b5f7ecbe69aa028e876a05656860d730dc155dcca2960967ae",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts": {
-        "version": "a37f1603d7e7a7ca95fd5e7e3f1aa06ec4132c1d11619dae4befaa9e6f9fa25e",
-        "signature": "a37f1603d7e7a7ca95fd5e7e3f1aa06ec4132c1d11619dae4befaa9e6f9fa25e",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts": {
-        "version": "997bbb033c880be894f0de2abdfda08b62267d57cea097b6109df0a640b0dee6",
-        "signature": "997bbb033c880be894f0de2abdfda08b62267d57cea097b6109df0a640b0dee6",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/plugins/symbols.d.ts": {
-        "version": "f8493d80da8d2d3e8c7aad46920fa00d1b3dfe2980ca51969a3953616bc638f3",
-        "signature": "f8493d80da8d2d3e8c7aad46920fa00d1b3dfe2980ca51969a3953616bc638f3",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts": {
-        "version": "ed7627677f086c977409f612133d4b39d17a3c7bbc52846ea5a27c12f88b0a86",
-        "signature": "ed7627677f086c977409f612133d4b39d17a3c7bbc52846ea5a27c12f88b0a86",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts": {
-        "version": "4fc570dcee54a3b0ea4a5c9dacf1e64c3f7acb919f89fe4f236a2bfd2a57c25f",
-        "signature": "4fc570dcee54a3b0ea4a5c9dacf1e64c3f7acb919f89fe4f236a2bfd2a57c25f",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/Internationalization.d.ts": {
-        "version": "aef87a3468ee0b6d27d862e5115880f28c75acaf40d68a6bff7ba2b4c654e12a",
-        "signature": "aef87a3468ee0b6d27d862e5115880f28c75acaf40d68a6bff7ba2b4c654e12a",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/logger/Logger.d.ts": {
-        "version": "83ea15f3eabae7e14f6915796d49d2d1bbe319e8c0670ad6b4eddac0caa2ab21",
-        "signature": "83ea15f3eabae7e14f6915796d49d2d1bbe319e8c0670ad6b4eddac0caa2ab21",
-        "affectsGlobalScope": false
-      },
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/containers/PermissionsPrecondition.d.ts": {
-        "version": "a2dd44ffb52fee74eb2469a685c0abcea5c9be3b64ebd9e2e6fa1d68208cd1d5",
-        "signature": "a2dd44ffb52fee74eb2469a685c0abcea5c9be3b64ebd9e2e6fa1d68208cd1d5",
-        "affectsGlobalScope": false
-      },
       "../node_modules/@sapphire/framework/dist/index.d.ts": {
-        "version": "32fd28bc6b09e6fe83ec4274613628a8266c3c2bfc4beeed93b6b58f256903ea",
-        "signature": "32fd28bc6b09e6fe83ec4274613628a8266c3c2bfc4beeed93b6b58f256903ea",
+        "version": "70eb98aa6f271b00278077f2980fe0b611101c02ecfce1d7b4b3c79a6714aaa1",
+        "signature": "70eb98aa6f271b00278077f2980fe0b611101c02ecfce1d7b4b3c79a6714aaa1",
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/arrayStrictEquals.d.ts": {
@@ -794,6 +569,11 @@
       "../node_modules/@sapphire/utilities/dist/lib/cutText.d.ts": {
         "version": "8a85d79cf5f5a0ea032306dd255f1d4d8ba792368faa69eae57056c3e5d89786",
         "signature": "8a85d79cf5f5a0ea032306dd255f1d4d8ba792368faa69eae57056c3e5d89786",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@sapphire/utilities/dist/lib/debounce/index.d.ts": {
+        "version": "e0720c0096e3749e2d24eff2c8f8cc906f0064cd6ccfed028619dd799f914329",
+        "signature": "e0720c0096e3749e2d24eff2c8f8cc906f0064cd6ccfed028619dd799f914329",
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/deepClone.d.ts": {
@@ -832,8 +612,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/isPrimitive.d.ts": {
-        "version": "7ebd4edb74da24068c80d55154f5599c208c7ef268f14075f19980f0dedaee7e",
-        "signature": "7ebd4edb74da24068c80d55154f5599c208c7ef268f14075f19980f0dedaee7e",
+        "version": "3872ab3e295d45c4e1e63fad766b41bb2b8e3faac7ccef95d86a986198e62df1",
+        "signature": "3872ab3e295d45c4e1e63fad766b41bb2b8e3faac7ccef95d86a986198e62df1",
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/isThenable.d.ts": {
@@ -847,8 +627,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/mergeDefault.d.ts": {
-        "version": "10afe3662ff26a6ccf22fc305561f80136b94d4df5383d1158003b5565f194a5",
-        "signature": "10afe3662ff26a6ccf22fc305561f80136b94d4df5383d1158003b5565f194a5",
+        "version": "7e7139c2457b2da2cec4b9e31db5fe865410a5ae226bf6e37be488d88951344d",
+        "signature": "7e7139c2457b2da2cec4b9e31db5fe865410a5ae226bf6e37be488d88951344d",
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/mergeObjects.d.ts": {
@@ -871,9 +651,14 @@
         "signature": "4aa2f55a8353ff629ff129e4bb6ff695effd2bf93264a0e578429c6810510b2b",
         "affectsGlobalScope": false
       },
+      "../node_modules/@sapphire/utilities/dist/lib/range.d.ts": {
+        "version": "83ebd1e9bf120b41999d45c3d0a4f9d2c63063bca0f914492924888c2c53309b",
+        "signature": "83ebd1e9bf120b41999d45c3d0a4f9d2c63063bca0f914492924888c2c53309b",
+        "affectsGlobalScope": false
+      },
       "../node_modules/@sapphire/utilities/dist/lib/regExpEsc.d.ts": {
-        "version": "d96b859f46d14dd872f252a80069a53d2ebdb721e176cdfcd4482291effb6580",
-        "signature": "d96b859f46d14dd872f252a80069a53d2ebdb721e176cdfcd4482291effb6580",
+        "version": "00e01b8b372f7f205d71cbfdf6ac5d8a01fe87950a67fe0ebfb2bb87d0c146b3",
+        "signature": "00e01b8b372f7f205d71cbfdf6ac5d8a01fe87950a67fe0ebfb2bb87d0c146b3",
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/lib/roundNumber.d.ts": {
@@ -897,8 +682,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@sapphire/utilities/dist/index.d.ts": {
-        "version": "7772d57ae88bc876222d242998a932edfd9497113a966ff886faa46c354b9571",
-        "signature": "7772d57ae88bc876222d242998a932edfd9497113a966ff886faa46c354b9571",
+        "version": "9a2b8f6b15fd771843621b2c6628fd7e9b7289fb3ec2e3767076bfb6eed6c925",
+        "signature": "9a2b8f6b15fd771843621b2c6628fd7e9b7289fb3ec2e3767076bfb6eed6c925",
         "affectsGlobalScope": false
       },
       "../src/lib/utils/constants.ts": {
@@ -907,8 +692,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/i18next/index.d.ts": {
-        "version": "b6fbcc818eb043a0b9f0063530997b03c5fe322af8ebac9a8b2c2936dcf12726",
-        "signature": "b6fbcc818eb043a0b9f0063530997b03c5fe322af8ebac9a8b2c2936dcf12726",
+        "version": "15599241d82efda1a5eb27cb613865dd8f94b0cd9c09bc5040c9ccf706e8d088",
+        "signature": "15599241d82efda1a5eb27cb613865dd8f94b0cd9c09bc5040c9ccf706e8d088",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/i18next-fs-backend/index.d.ts": {
@@ -916,34 +701,39 @@
         "signature": "141f00eb5acc28bc4d069e93326df8f291ed4cc333d1d57923f9d5affeaf169f",
         "affectsGlobalScope": false
       },
-      "../node_modules/@scp/in17n/dist/lib/In17n.d.ts": {
-        "version": "a182dd417c27bb91141693fc8558f42992e940a6c394d9cba84f056d16534288",
-        "signature": "a182dd417c27bb91141693fc8558f42992e940a6c394d9cba84f056d16534288",
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts": {
+        "version": "4b0a54097a96a7993867953e69119d5ab5c393177b8ee2ad55b0cf761e2e35da",
+        "signature": "4b0a54097a96a7993867953e69119d5ab5c393177b8ee2ad55b0cf761e2e35da",
         "affectsGlobalScope": false
       },
-      "../node_modules/@scp/in17n/dist/lib/utils/In17nHandler.d.ts": {
-        "version": "1dfd0c5460da44bb1f49bc4c91494503ddf93b9897e6e3c5a1034bd42854949e",
-        "signature": "1dfd0c5460da44bb1f49bc4c91494503ddf93b9897e6e3c5a1034bd42854949e",
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/types/context.d.ts": {
+        "version": "f5d40f591b3ad3975c91545fd0e55517142b878377faafbf922bd25824edea10",
+        "signature": "f5d40f591b3ad3975c91545fd0e55517142b878377faafbf922bd25824edea10",
         "affectsGlobalScope": false
       },
-      "../node_modules/@scp/in17n/dist/index.d.ts": {
-        "version": "83649a89410bb29939e64167ff421065e1236099c8de07cb8e3bbc27c18b4ddd",
-        "signature": "83649a89410bb29939e64167ff421065e1236099c8de07cb8e3bbc27c18b4ddd",
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/I18nextHandler.d.ts": {
+        "version": "442c958660db1947de36dc00a2c3a54db21bf3d1821ba9a2bc4bece4b7ff950d",
+        "signature": "442c958660db1947de36dc00a2c3a54db21bf3d1821ba9a2bc4bece4b7ff950d",
         "affectsGlobalScope": false
       },
-      "../node_modules/@scp/in17n/dist/register.d.ts": {
-        "version": "f5c538e132bfb4502782e77e60102c1ed16889d3e8dd8bc489db98b77d306498",
-        "signature": "f5c538e132bfb4502782e77e60102c1ed16889d3e8dd8bc489db98b77d306498",
+      "../node_modules/@sapphire/plugin-i18next/dist/index.d.ts": {
+        "version": "759e2fd34a821ed7a4351cf2aa86c4cfdb696b4c0738cc70ad6b44d84d3b3680",
+        "signature": "759e2fd34a821ed7a4351cf2aa86c4cfdb696b4c0738cc70ad6b44d84d3b3680",
         "affectsGlobalScope": false
       },
-      "../node_modules/@scp/in17n/register.d.ts": {
+      "../node_modules/@sapphire/plugin-i18next/dist/register.d.ts": {
+        "version": "4149a6ab9b3fb4244f59266f7de3865a8d7e80db9871cb1af3e1271366a97fba",
+        "signature": "4149a6ab9b3fb4244f59266f7de3865a8d7e80db9871cb1af3e1271366a97fba",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@sapphire/plugin-i18next/register.d.ts": {
         "version": "3b3b31f08eb34239fd7dc37b64a4d64a6ed3a97433851b051de2429576fb8eba",
         "signature": "3b3b31f08eb34239fd7dc37b64a4d64a6ed3a97433851b051de2429576fb8eba",
         "affectsGlobalScope": false
       },
       "../src/lib/DebiaClient.ts": {
-        "version": "24a6b986c0dea60d7abea0ae3137c83c0e736e4b33acf1d104f90edfd184045a",
-        "signature": "94038338e193ff159b49a58f78c01042b2169fcf17fb6b7065b5644873e32504",
+        "version": "495661712a97aed3f660354a6dddfded949bb2bcc789c7fa39d40908127ef253",
+        "signature": "0fcf448fb41bfd0833d6233885c37c1f2bf4b8f98fa4b657feebfdf76a837885",
         "affectsGlobalScope": false
       },
       "../src/lib/utils/utils.ts": {
@@ -957,8 +747,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@babel/types/lib/index.d.ts": {
-        "version": "f4d27b39be5d82eb94f12c54a15e61f65decb27fb289353d11ef238de49bf5c2",
-        "signature": "f4d27b39be5d82eb94f12c54a15e61f65decb27fb289353d11ef238de49bf5c2",
+        "version": "bcb65ca77412000e1f33384efbbb615a8dac55aca6aa06a4552b01e7c8cd6577",
+        "signature": "bcb65ca77412000e1f33384efbbb615a8dac55aca6aa06a4552b01e7c8cd6577",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/babel__generator/index.d.ts": {
@@ -967,28 +757,28 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/babel__traverse/index.d.ts": {
-        "version": "ef91066d2057cca50511e3af2d4aa54e07913a15f9cee1748f256139318eb413",
-        "signature": "ef91066d2057cca50511e3af2d4aa54e07913a15f9cee1748f256139318eb413",
+        "version": "8a278bfba7b081cd849434c1130655046639ae90617a682436ed6954e2b57403",
+        "signature": "8a278bfba7b081cd849434c1130655046639ae90617a682436ed6954e2b57403",
         "affectsGlobalScope": false
       },
       "../node_modules/@babel/parser/typings/babel-parser.d.ts": {
-        "version": "04467c3822f065aee977f9e1225b86b9ac0e976cb42b0c8da0b893a3290920e1",
-        "signature": "04467c3822f065aee977f9e1225b86b9ac0e976cb42b0c8da0b893a3290920e1",
+        "version": "b1401d1d9117a5e4d981c965e3408dcb6e2b63022b716816e6d83599ab369a53",
+        "signature": "b1401d1d9117a5e4d981c965e3408dcb6e2b63022b716816e6d83599ab369a53",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/babel__template/index.d.ts": {
-        "version": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
-        "signature": "3e0a34f7207431d967dc32d593d1cda0c23975e9484bc8895b39d96ffca4a0d8",
+        "version": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
+        "signature": "3051751533eee92572241b3cef28333212401408c4e7aa21718714b793c0f4ed",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/babel__core/index.d.ts": {
-        "version": "7df3163944694feeac63067632a8dc2e2dea1350119ec8b43df277af69198369",
-        "signature": "7df3163944694feeac63067632a8dc2e2dea1350119ec8b43df277af69198369",
+        "version": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
+        "signature": "a66e700ed470a0cb52d14f3376c1605c70fec8e9659e45f7e22ad07fcd06ae04",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/graceful-fs/index.d.ts": {
-        "version": "2c7dca525f4e2e5f2b357dacb58ab6c8777995e6d505ef652bcbbf9789ac558f",
-        "signature": "2c7dca525f4e2e5f2b357dacb58ab6c8777995e6d505ef652bcbbf9789ac558f",
+        "version": "cb6cf0480ee1aa9f706db1f6f5add596a1aa10e8c4beb1817f2318384ba684dc",
+        "signature": "cb6cf0480ee1aa9f706db1f6f5add596a1aa10e8c4beb1817f2318384ba684dc",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/istanbul-lib-coverage/index.d.ts": {
@@ -1006,44 +796,44 @@
         "signature": "905c3e8f7ddaa6c391b60c05b2f4c3931d7127ad717a080359db3df510b7bdab",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts": {
-        "version": "e222104af6cb9415238ad358488b74d76eceeff238c1268ec6e85655b05341da",
-        "signature": "e222104af6cb9415238ad358488b74d76eceeff238c1268ec6e85655b05341da",
+      "../node_modules/jest-diff/build/cleanupSemantic.d.ts": {
+        "version": "d8aab31ba8e618cc3eea10b0945de81cb93b7e8150a013a482332263b9305322",
+        "signature": "d8aab31ba8e618cc3eea10b0945de81cb93b7e8150a013a482332263b9305322",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts": {
+      "../node_modules/jest-diff/build/types.d.ts": {
         "version": "69da61a7b5093dac77fa3bec8be95dcf9a74c95a0e9161edb98bb24e30e439d2",
         "signature": "69da61a7b5093dac77fa3bec8be95dcf9a74c95a0e9161edb98bb24e30e439d2",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/jest-diff/build/diffLines.d.ts": {
-        "version": "eba230221317c985ab1953ccc3edc517f248b37db4fef7875cb2c8d08aff7be7",
-        "signature": "eba230221317c985ab1953ccc3edc517f248b37db4fef7875cb2c8d08aff7be7",
+      "../node_modules/jest-diff/build/diffLines.d.ts": {
+        "version": "561eca7a381b96d6ccac6e4061e6d2ae53f5bc44203f3fd9f5b26864c32ae6e9",
+        "signature": "561eca7a381b96d6ccac6e4061e6d2ae53f5bc44203f3fd9f5b26864c32ae6e9",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/jest-diff/build/printDiffs.d.ts": {
-        "version": "b83e796810e475da3564c6515bc0ae9577070596a33d89299b7d99f94ecfd921",
-        "signature": "b83e796810e475da3564c6515bc0ae9577070596a33d89299b7d99f94ecfd921",
+      "../node_modules/jest-diff/build/printDiffs.d.ts": {
+        "version": "62ea38627e3ebab429f7616812a9394d327c2bc271003dfba985de9b4137369f",
+        "signature": "62ea38627e3ebab429f7616812a9394d327c2bc271003dfba985de9b4137369f",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts": {
+      "../node_modules/jest-diff/build/index.d.ts": {
         "version": "b4439890c168d646357928431100daac5cbdee1d345a34e6bf6eca9f3abe22bc",
         "signature": "b4439890c168d646357928431100daac5cbdee1d345a34e6bf6eca9f3abe22bc",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts": {
+      "../node_modules/pretty-format/build/types.d.ts": {
         "version": "5d72971a459517c44c1379dab9ed248e87a61ba0a1e0f25c9d67e1e640cd9a09",
         "signature": "5d72971a459517c44c1379dab9ed248e87a61ba0a1e0f25c9d67e1e640cd9a09",
         "affectsGlobalScope": false
       },
-      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": {
+      "../node_modules/pretty-format/build/index.d.ts": {
         "version": "02d734976af36f4273d930bea88b3e62adf6b078cf120c1c63d49aa8d8427c5c",
         "signature": "02d734976af36f4273d930bea88b3e62adf6b078cf120c1c63d49aa8d8427c5c",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/jest/index.d.ts": {
-        "version": "f2b73fbe0e4e473289046067e91303cd1b0994206edc6d38b80aa45692afa6b8",
-        "signature": "f2b73fbe0e4e473289046067e91303cd1b0994206edc6d38b80aa45692afa6b8",
+        "version": "08c4a97a324b82f7dbc02b9e2bb278b7bb13c160e04e23a16dd04f9d732da20a",
+        "signature": "08c4a97a324b82f7dbc02b9e2bb278b7bb13c160e04e23a16dd04f9d732da20a",
         "affectsGlobalScope": true
       },
       "../node_modules/@types/json-schema/index.d.ts": {
@@ -1052,8 +842,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/minimist/index.d.ts": {
-        "version": "3602dfff3072caea42f23a9b63fb34a7b0c95a62b93ce2add5fe6b159447845e",
-        "signature": "3602dfff3072caea42f23a9b63fb34a7b0c95a62b93ce2add5fe6b159447845e",
+        "version": "e437d83044ba17246a861aa9691aa14223ff4a9d6f338ab1269c41c758586a88",
+        "signature": "e437d83044ba17246a861aa9691aa14223ff4a9d6f338ab1269c41c758586a88",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/module-alias/index.d.ts": {
@@ -1072,8 +862,8 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/prettier/index.d.ts": {
-        "version": "38433e50f876a09a45b665837a2954003ae14606270a157491f2bb52edf10382",
-        "signature": "38433e50f876a09a45b665837a2954003ae14606270a157491f2bb52edf10382",
+        "version": "c4efa4df1372e991aa44b70b8d87b48865d94ecd26e76025854f2273df155253",
+        "signature": "c4efa4df1372e991aa44b70b8d87b48865d94ecd26e76025854f2273df155253",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/stack-utils/index.d.ts": {
@@ -1082,13 +872,13 @@
         "affectsGlobalScope": false
       },
       "../node_modules/@types/yargs-parser/index.d.ts": {
-        "version": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
-        "signature": "fdfbe321c556c39a2ecf791d537b999591d0849e971dd938d88f460fea0186f6",
+        "version": "3bdd93ec24853e61bfa4c63ebaa425ff3e474156e87a47d90122e1d8cc717c1f",
+        "signature": "3bdd93ec24853e61bfa4c63ebaa425ff3e474156e87a47d90122e1d8cc717c1f",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/yargs/index.d.ts": {
-        "version": "60800fcbe8e21866d66c793809d522778d09051f0fb9380f3331602935c1ef5c",
-        "signature": "60800fcbe8e21866d66c793809d522778d09051f0fb9380f3331602935c1ef5c",
+        "version": "19a1bd57c2b3dd10bc4ae33eaa9e88f0f067858e32b7765b7e9d38138cd07f30",
+        "signature": "19a1bd57c2b3dd10bc4ae33eaa9e88f0f067858e32b7765b7e9d38138cd07f30",
         "affectsGlobalScope": false
       }
     },
@@ -1133,6 +923,7 @@
       "composite": true,
       "inlineSources": true,
       "esModuleInterop": true,
+      "pathsBasePath": "/home/runner/work/debia/debia/src",
       "configFilePath": "../src/tsconfig.json"
     },
     "referencedMap": {
@@ -1140,274 +931,36 @@
         "../node_modules/@babel/types/lib/index.d.ts"
       ],
       "../node_modules/@sapphire/framework/dist/index.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/symbols.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/Internationalization.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/Logger.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/containers/PermissionsPrecondition.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/errors/PreconditionError.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/symbols.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/strategies/FlagUnorderedStrategy.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts",
-        "../node_modules/lexure/dist/types/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
         "../node_modules/@sapphire/pieces/dist/index.d.ts",
         "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/PreconditionError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/url.d.ts",
         "../node_modules/discord.js/typings/index.d.ts",
         "../node_modules/lexure/dist/types/index.d.ts"
       ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/Internationalization.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/logger/Logger.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts": [
-        "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/containers/PermissionsPrecondition.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/strategies/FlagUnorderedStrategy.d.ts": [
-        "../node_modules/lexure/dist/types/index.d.ts"
-      ],
       "../node_modules/@sapphire/pieces/dist/index.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/AliasStore.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/errors/LoaderError.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/errors/MissingExportsError.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/LoadJavaScript.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadMultiple.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadSingle.d.ts"
+        "../node_modules/@discordjs/collection/dist/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/index.d.ts": [
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/I18nextHandler.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/types/context.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/AliasStore.d.ts": [
-        "../node_modules/@discordjs/collection/dist/index.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/I18nextHandler.d.ts": [
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts",
+        "../node_modules/@sapphire/utilities/dist/index.d.ts",
+        "../node_modules/i18next/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts": [
+        "../node_modules/@types/i18next-fs-backend/index.d.ts",
+        "../node_modules/i18next/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts": [
-        "../node_modules/@discordjs/collection/dist/index.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/register.d.ts": [
+        "../node_modules/@sapphire/framework/dist/index.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/dist/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/errors/MissingExportsError.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/errors/LoaderError.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/LoadJavaScript.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/Shared.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadMultiple.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadSingle.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/register.d.ts": [
+        "../node_modules/@sapphire/plugin-i18next/dist/register.d.ts"
       ],
       "../node_modules/@sapphire/utilities/dist/index.d.ts": [
         "../node_modules/@sapphire/utilities/dist/lib/arrayStrictEquals.d.ts",
@@ -1415,6 +968,7 @@
         "../node_modules/@sapphire/utilities/dist/lib/classExtends.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/codeBlock.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/cutText.d.ts",
+        "../node_modules/@sapphire/utilities/dist/lib/debounce/index.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/deepClone.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/inlineCodeBlock.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/isClass.d.ts",
@@ -1430,6 +984,7 @@
         "../node_modules/@sapphire/utilities/dist/lib/noop.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/objectToTuples.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/parseUrl.d.ts",
+        "../node_modules/@sapphire/utilities/dist/lib/range.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/regExpEsc.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/roundNumber.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/splitText.d.ts",
@@ -1445,31 +1000,6 @@
       ],
       "../node_modules/@sapphire/utilities/dist/lib/mergeDefault.d.ts": [
         "../node_modules/@sapphire/utilities/dist/lib/utilityTypes.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/index.d.ts": [
-        "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-        "../node_modules/@scp/in17n/dist/lib/utils/In17nHandler.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/lib/In17n.d.ts": [
-        "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@types/i18next-fs-backend/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts",
-        "../node_modules/i18next/index.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/lib/utils/In17nHandler.d.ts": [
-        "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@sapphire/utilities/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts",
-        "../node_modules/i18next/index.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/register.d.ts": [
-        "../node_modules/@scp/in17n/dist/index.d.ts"
-      ],
-      "../node_modules/@scp/in17n/register.d.ts": [
-        "../node_modules/@scp/in17n/dist/register.d.ts"
       ],
       "../node_modules/@types/babel__core/index.d.ts": [
         "../node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -1502,25 +1032,8 @@
         "../node_modules/@types/istanbul-lib-report/index.d.ts"
       ],
       "../node_modules/@types/jest/index.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts",
-        "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/jest-diff/build/diffLines.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/diffLines.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/printDiffs.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/jest-diff/build/printDiffs.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": [
-        "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts"
+        "../node_modules/jest-diff/build/index.d.ts",
+        "../node_modules/pretty-format/build/index.d.ts"
       ],
       "../node_modules/@types/node/base.d.ts": [
         "../node_modules/@types/node/assert.d.ts",
@@ -1711,6 +1224,20 @@
         "../node_modules/@types/node/stream.d.ts",
         "../node_modules/@types/ws/index.d.ts"
       ],
+      "../node_modules/jest-diff/build/diffLines.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/jest-diff/build/index.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/diffLines.d.ts",
+        "../node_modules/jest-diff/build/printDiffs.d.ts",
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/jest-diff/build/printDiffs.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
       "../node_modules/lexure/dist/types/args.d.ts": [
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/parserOutput.d.ts",
@@ -1750,27 +1277,35 @@
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts"
       ],
+      "../node_modules/pretty-format/build/index.d.ts": [
+        "../node_modules/pretty-format/build/types.d.ts"
+      ],
       "../src/config.ts": [
-        "../node_modules/discord.js/typings/index.d.ts"
+        "../node_modules/discord.js/typings/index.d.ts",
+        "../node_modules/tslib/tslib.d.ts"
       ],
       "../src/index.ts": [
+        "../node_modules/tslib/tslib.d.ts",
         "../src/config.ts",
         "../src/lib/DebiaClient.ts",
         "../src/lib/utils/utils.ts"
       ],
       "../src/lib/DebiaClient.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/register.d.ts",
         "../node_modules/@sapphire/utilities/dist/index.d.ts",
-        "../node_modules/@scp/in17n/register.d.ts",
         "../node_modules/discord.js/typings/index.d.ts",
+        "../node_modules/tslib/tslib.d.ts",
         "../src/lib/utils/constants.ts"
       ],
       "../src/lib/utils/constants.ts": [
-        "../node_modules/discord.js/typings/index.d.ts"
+        "../node_modules/discord.js/typings/index.d.ts",
+        "../node_modules/tslib/tslib.d.ts"
       ],
       "../src/lib/utils/utils.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
         "../node_modules/@sapphire/utilities/dist/index.d.ts",
+        "../node_modules/tslib/tslib.d.ts",
         "../src/lib/DebiaClient.ts"
       ]
     },
@@ -1779,274 +1314,36 @@
         "../node_modules/@babel/types/lib/index.d.ts"
       ],
       "../node_modules/@sapphire/framework/dist/index.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/symbols.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/Internationalization.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/Logger.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/containers/PermissionsPrecondition.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/errors/PreconditionError.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/symbols.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/strategies/FlagUnorderedStrategy.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts",
-        "../node_modules/lexure/dist/types/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
         "../node_modules/@sapphire/pieces/dist/index.d.ts",
         "../node_modules/@types/node/events.d.ts",
-        "../node_modules/@types/node/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/PreconditionError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
         "../node_modules/@types/node/index.d.ts",
         "../node_modules/@types/node/url.d.ts",
         "../node_modules/discord.js/typings/index.d.ts",
         "../node_modules/lexure/dist/types/index.d.ts"
       ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/Internationalization.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/logger/Logger.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts": [
-        "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/containers/PermissionsPrecondition.d.ts": [
-        "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts"
-      ],
-      "../node_modules/@sapphire/framework/dist/lib/utils/strategies/FlagUnorderedStrategy.d.ts": [
-        "../node_modules/lexure/dist/types/index.d.ts"
-      ],
       "../node_modules/@sapphire/pieces/dist/index.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/AliasStore.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/errors/LoaderError.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/errors/MissingExportsError.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/LoadJavaScript.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadMultiple.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadSingle.d.ts"
+        "../node_modules/@discordjs/collection/dist/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/index.d.ts": [
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/I18nextHandler.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/types/context.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/AliasStore.d.ts": [
-        "../node_modules/@discordjs/collection/dist/index.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/I18nextHandler.d.ts": [
+        "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts",
+        "../node_modules/@sapphire/utilities/dist/index.d.ts",
+        "../node_modules/i18next/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts": [
+        "../node_modules/@types/i18next-fs-backend/index.d.ts",
+        "../node_modules/i18next/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts": [
-        "../node_modules/@discordjs/collection/dist/index.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/dist/register.d.ts": [
+        "../node_modules/@sapphire/framework/dist/index.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/dist/index.d.ts"
       ],
-      "../node_modules/@sapphire/pieces/dist/lib/errors/MissingExportsError.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/errors/LoaderError.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/LoadJavaScript.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts",
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/Shared.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadMultiple.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts"
-      ],
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadSingle.d.ts": [
-        "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts"
+      "../node_modules/@sapphire/plugin-i18next/register.d.ts": [
+        "../node_modules/@sapphire/plugin-i18next/dist/register.d.ts"
       ],
       "../node_modules/@sapphire/utilities/dist/index.d.ts": [
         "../node_modules/@sapphire/utilities/dist/lib/arrayStrictEquals.d.ts",
@@ -2054,6 +1351,7 @@
         "../node_modules/@sapphire/utilities/dist/lib/classExtends.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/codeBlock.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/cutText.d.ts",
+        "../node_modules/@sapphire/utilities/dist/lib/debounce/index.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/deepClone.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/inlineCodeBlock.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/isClass.d.ts",
@@ -2069,6 +1367,7 @@
         "../node_modules/@sapphire/utilities/dist/lib/noop.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/objectToTuples.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/parseUrl.d.ts",
+        "../node_modules/@sapphire/utilities/dist/lib/range.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/regExpEsc.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/roundNumber.d.ts",
         "../node_modules/@sapphire/utilities/dist/lib/splitText.d.ts",
@@ -2084,31 +1383,6 @@
       ],
       "../node_modules/@sapphire/utilities/dist/lib/mergeDefault.d.ts": [
         "../node_modules/@sapphire/utilities/dist/lib/utilityTypes.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/index.d.ts": [
-        "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-        "../node_modules/@scp/in17n/dist/lib/utils/In17nHandler.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/lib/In17n.d.ts": [
-        "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-        "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-        "../node_modules/@sapphire/pieces/dist/index.d.ts",
-        "../node_modules/@types/i18next-fs-backend/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts",
-        "../node_modules/i18next/index.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/lib/utils/In17nHandler.d.ts": [
-        "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@sapphire/utilities/dist/index.d.ts",
-        "../node_modules/discord.js/typings/index.d.ts",
-        "../node_modules/i18next/index.d.ts"
-      ],
-      "../node_modules/@scp/in17n/dist/register.d.ts": [
-        "../node_modules/@scp/in17n/dist/index.d.ts"
-      ],
-      "../node_modules/@scp/in17n/register.d.ts": [
-        "../node_modules/@scp/in17n/dist/register.d.ts"
       ],
       "../node_modules/@types/babel__core/index.d.ts": [
         "../node_modules/@babel/parser/typings/babel-parser.d.ts",
@@ -2141,25 +1415,8 @@
         "../node_modules/@types/istanbul-lib-report/index.d.ts"
       ],
       "../node_modules/@types/jest/index.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts",
-        "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/jest-diff/build/diffLines.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/diffLines.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/printDiffs.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/jest-diff/build/printDiffs.d.ts": [
-        "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-        "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts"
-      ],
-      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts": [
-        "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts"
+        "../node_modules/jest-diff/build/index.d.ts",
+        "../node_modules/pretty-format/build/index.d.ts"
       ],
       "../node_modules/@types/node/base.d.ts": [
         "../node_modules/@types/node/assert.d.ts",
@@ -2350,6 +1607,20 @@
         "../node_modules/@types/node/stream.d.ts",
         "../node_modules/@types/ws/index.d.ts"
       ],
+      "../node_modules/jest-diff/build/diffLines.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/jest-diff/build/index.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/diffLines.d.ts",
+        "../node_modules/jest-diff/build/printDiffs.d.ts",
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
+      "../node_modules/jest-diff/build/printDiffs.d.ts": [
+        "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+        "../node_modules/jest-diff/build/types.d.ts"
+      ],
       "../node_modules/lexure/dist/types/args.d.ts": [
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/parserOutput.d.ts",
@@ -2389,12 +1660,15 @@
         "../node_modules/lexure/dist/types/option.d.ts",
         "../node_modules/lexure/dist/types/result.d.ts"
       ],
+      "../node_modules/pretty-format/build/index.d.ts": [
+        "../node_modules/pretty-format/build/types.d.ts"
+      ],
       "../src/config.ts": [
         "../node_modules/discord.js/typings/index.d.ts"
       ],
       "../src/lib/DebiaClient.ts": [
         "../node_modules/@sapphire/framework/dist/index.d.ts",
-        "../node_modules/@scp/in17n/register.d.ts",
+        "../node_modules/@sapphire/plugin-i18next/register.d.ts",
         "../node_modules/discord.js/typings/index.d.ts"
       ],
       "../src/lib/utils/constants.ts": [
@@ -2409,60 +1683,20 @@
       "../node_modules/@babel/types/lib/index.d.ts",
       "../node_modules/@discordjs/collection/dist/index.d.ts",
       "../node_modules/@sapphire/framework/dist/index.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/SapphireClient.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/errors/ArgumentError.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/errors/PreconditionError.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/errors/UserError.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/extensions/SapphireMessage.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/plugins/Plugin.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/plugins/PluginManager.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/plugins/symbols.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/Argument.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/ArgumentStore.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/Command.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/CommandStore.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/Event.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/EventStore.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/Precondition.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/PreconditionStore.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasPiece.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseAliasStore.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BasePiece.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/structures/base/BaseStore.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/types/Enums.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/types/Events.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/Args.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/Result.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/Types.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/IInternationalization.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/i18n/Internationalization.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/logger/ILogger.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/logger/Logger.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/IPreconditionContainer.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainer.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerAny.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/PreconditionContainerSimple.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/preconditions/containers/PermissionsPrecondition.d.ts",
-      "../node_modules/@sapphire/framework/dist/lib/utils/strategies/FlagUnorderedStrategy.d.ts",
       "../node_modules/@sapphire/pieces/dist/index.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/AliasPiece.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/AliasStore.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/Piece.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/Store.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/errors/LoaderError.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/errors/MissingExportsError.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/Shared.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/IFilter.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/filters/LoadJavaScript.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/ILoader.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadMultiple.d.ts",
-      "../node_modules/@sapphire/pieces/dist/lib/strategies/loaders/LoadSingle.d.ts",
+      "../node_modules/@sapphire/plugin-i18next/dist/index.d.ts",
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/I18nextHandler.d.ts",
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/types/context.d.ts",
+      "../node_modules/@sapphire/plugin-i18next/dist/lib/types/options.d.ts",
+      "../node_modules/@sapphire/plugin-i18next/dist/register.d.ts",
+      "../node_modules/@sapphire/plugin-i18next/register.d.ts",
       "../node_modules/@sapphire/utilities/dist/index.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/arrayStrictEquals.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/chunk.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/classExtends.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/codeBlock.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/cutText.d.ts",
+      "../node_modules/@sapphire/utilities/dist/lib/debounce/index.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/deepClone.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/inlineCodeBlock.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/isClass.d.ts",
@@ -2478,17 +1712,13 @@
       "../node_modules/@sapphire/utilities/dist/lib/noop.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/objectToTuples.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/parseUrl.d.ts",
+      "../node_modules/@sapphire/utilities/dist/lib/range.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/regExpEsc.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/roundNumber.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/splitText.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/toTitleCase.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/tryParse.d.ts",
       "../node_modules/@sapphire/utilities/dist/lib/utilityTypes.d.ts",
-      "../node_modules/@scp/in17n/dist/index.d.ts",
-      "../node_modules/@scp/in17n/dist/lib/In17n.d.ts",
-      "../node_modules/@scp/in17n/dist/lib/utils/In17nHandler.d.ts",
-      "../node_modules/@scp/in17n/dist/register.d.ts",
-      "../node_modules/@scp/in17n/register.d.ts",
       "../node_modules/@types/babel__core/index.d.ts",
       "../node_modules/@types/babel__generator/index.d.ts",
       "../node_modules/@types/babel__template/index.d.ts",
@@ -2499,13 +1729,6 @@
       "../node_modules/@types/istanbul-lib-report/index.d.ts",
       "../node_modules/@types/istanbul-reports/index.d.ts",
       "../node_modules/@types/jest/index.d.ts",
-      "../node_modules/@types/jest/node_modules/jest-diff/build/cleanupSemantic.d.ts",
-      "../node_modules/@types/jest/node_modules/jest-diff/build/diffLines.d.ts",
-      "../node_modules/@types/jest/node_modules/jest-diff/build/index.d.ts",
-      "../node_modules/@types/jest/node_modules/jest-diff/build/printDiffs.d.ts",
-      "../node_modules/@types/jest/node_modules/jest-diff/build/types.d.ts",
-      "../node_modules/@types/jest/node_modules/pretty-format/build/index.d.ts",
-      "../node_modules/@types/jest/node_modules/pretty-format/build/types.d.ts",
       "../node_modules/@types/json-schema/index.d.ts",
       "../node_modules/@types/minimist/index.d.ts",
       "../node_modules/@types/module-alias/index.d.ts",
@@ -2565,6 +1788,11 @@
       "../node_modules/@types/yargs/index.d.ts",
       "../node_modules/discord.js/typings/index.d.ts",
       "../node_modules/i18next/index.d.ts",
+      "../node_modules/jest-diff/build/cleanupSemantic.d.ts",
+      "../node_modules/jest-diff/build/diffLines.d.ts",
+      "../node_modules/jest-diff/build/index.d.ts",
+      "../node_modules/jest-diff/build/printDiffs.d.ts",
+      "../node_modules/jest-diff/build/types.d.ts",
       "../node_modules/lexure/dist/types/args.d.ts",
       "../node_modules/lexure/dist/types/index.d.ts",
       "../node_modules/lexure/dist/types/lexer.d.ts",
@@ -2577,6 +1805,8 @@
       "../node_modules/lexure/dist/types/tokens.d.ts",
       "../node_modules/lexure/dist/types/unordered.d.ts",
       "../node_modules/lexure/dist/types/util.d.ts",
+      "../node_modules/pretty-format/build/index.d.ts",
+      "../node_modules/pretty-format/build/types.d.ts",
       "../node_modules/tslib/tslib.d.ts",
       "../node_modules/typescript/lib/lib.es2015.collection.d.ts",
       "../node_modules/typescript/lib/lib.es2015.core.d.ts",
@@ -2611,6 +1841,7 @@
       "../node_modules/typescript/lib/lib.es2020.d.ts",
       "../node_modules/typescript/lib/lib.es2020.intl.d.ts",
       "../node_modules/typescript/lib/lib.es2020.promise.d.ts",
+      "../node_modules/typescript/lib/lib.es2020.sharedmemory.d.ts",
       "../node_modules/typescript/lib/lib.es2020.string.d.ts",
       "../node_modules/typescript/lib/lib.es2020.symbol.wellknown.d.ts",
       "../node_modules/typescript/lib/lib.es5.d.ts",
@@ -2618,6 +1849,7 @@
       "../node_modules/typescript/lib/lib.esnext.intl.d.ts",
       "../node_modules/typescript/lib/lib.esnext.promise.d.ts",
       "../node_modules/typescript/lib/lib.esnext.string.d.ts",
+      "../node_modules/typescript/lib/lib.esnext.weakref.d.ts",
       "../src/config.ts",
       "../src/index.ts",
       "../src/lib/DebiaClient.ts",
@@ -2625,5 +1857,5 @@
       "../src/lib/utils/utils.ts"
     ]
   },
-  "version": "4.0.3"
+  "version": "4.1.3"
 }

@@ -4,7 +4,7 @@ exports.DebiaClient = void 0;
 const framework_1 = require("@sapphire/framework");
 const utilities_1 = require("@sapphire/utilities");
 const constants_1 = require("@utils/constants");
-require("@scp/in17n/register");
+require("@sapphire/plugin-i18next/register");
 class DebiaClient extends framework_1.SapphireClient {
     constructor(options) {
         // @ts-expect-error Type instantiation is excessively deep and possibly infinite. ts(2589)

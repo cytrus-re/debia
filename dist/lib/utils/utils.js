@@ -12,5 +12,6 @@ function floatPromise(ctx, promise) {
         promise.catch(error => ctx.client.emit(framework_1.Events.Error, error));
 }
 exports.floatPromise = floatPromise;
-exports.mainTest = () => 'this builds and pushes';
+const mainTest = () => 'this builds and pushes';
+exports.mainTest = mainTest;
 //# sourceMappingURL=utils.js.map
