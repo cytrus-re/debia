@@ -2,10 +2,16 @@ name: Make Docker Container for Development
  
 on:
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Build"]
+    branches: 
+      - main
+    types: 
+      - completed
+      - requested
   push:
     branches:
-    - build
-
+      - build
 jobs:
   Contain:
     name: 'Create Docker Container for Development'
@@ -15,7 +21,7 @@ jobs:
       - name: Checkout Project
         uses: actions/checkout@v1
         with:
-          ref: build
+          sha: build
       - name: Use Node.js 14
         uses: actions/setup-node@v1
         with:
@@ -35,8 +41,8 @@ jobs:
         uses: docker/login-action@v1
         with:
           registry: ghcr.io
-          username: ${{ github.repository_owner}}
-          password: ${{ github.token }}
+          username: Devnol
+          password: ${{ secrets.DEVNOL_CR_PAT }}
       - name: Build and push to GHCR
         uses: docker/build-push-action@v2
         with:
@@ -47,3 +53,5 @@ jobs:
           tags: |
             ghcr.io/cytrus-re/debia:dev-latest
             cytrus-re/debia:dev-latest
+            ghcr.io/cytrus-re/debia:${{ github.sha }} 
+            cytrus-re/debia:${{ github.sha }}
