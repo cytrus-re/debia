@@ -46,4 +46,4 @@ jobs:
           push: true
           tags: |
             "Cytrus-RE/debia/debia:dev-latest"
-            "C"ytrus-RE/debia/debia:${{ github.run_number }}""
+            "Cytrus-RE/debia/debia:${{ github.run_number }}"
