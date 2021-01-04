@@ -16,12 +16,12 @@ jobs:
   Contain:
     name: 'Create Docker Container for Development'
     runs-on: ubuntu-latest
-    if: "!(contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[skip build]'))"
+    if: "!(contains(github.event.head_commit.message, '[skip ci]')"
     steps:
       - name: Checkout Project
         uses: actions/checkout@v1
         with:
-          sha: build
+          ref: build
       - name: Use Node.js 14
         uses: actions/setup-node@v1
         with:
