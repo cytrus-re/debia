@@ -35,10 +35,8 @@ jobs:
         uses: docker/login-action@v1 
         with:
           registry: ghcr.io
-          username: ${{ github.actor }} 
-          password: ${{ CR_PAT }} #TODO: if this doesn't work we'll just use a specific PAT
-        env:
-          CR_PAT: ${{ secrets.${{ github.actor }}_CR_PAT }}
+          username: Devnol 
+          password: ${{ DEVNOL_CR_PAT }} #TODO: if this doesn't work we'll just use a specific PAT
       - name: Build and push to ghcr
         uses: docker/build-push-action@v2.2.1
         with:
