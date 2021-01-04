@@ -45,5 +45,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            cytrus-re/debia/debia:dev-latest
-            cytrus-re/debia/debia:${{ github.run_number }}
+            "Cytrus-RE/debia/debia:dev-latest"
+            "C"ytrus-RE/debia/debia:${{ github.run_number }}""
