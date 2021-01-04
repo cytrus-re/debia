@@ -8,6 +8,5 @@ const client = new DebiaClient_1.DebiaClient(config_1.CLIENT_OPTIONS);
 async function main() {
     await client.login(config_1.BOT_TOKEN);
 }
-console.log('Build dammit');
 utils_1.floatPromise({ client }, main());
 //# sourceMappingURL=index.js.map
