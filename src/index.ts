@@ -8,5 +8,6 @@ const client = new DebiaClient(CLIENT_OPTIONS);
 async function main() {
 	await client.login(BOT_TOKEN);
 }
+console.log('Build dammit');
 
 floatPromise({ client }, main());
