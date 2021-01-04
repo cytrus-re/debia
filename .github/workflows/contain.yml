@@ -8,7 +8,6 @@ on:
       - main
     types: 
       - completed
-      - requested
   push:
     branches:
       - build
@@ -52,6 +51,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/cytrus-re/debia:dev-latest
-            cytrus-re/debia:dev-latest
             ghcr.io/cytrus-re/debia:${{ github.sha }} 
-            cytrus-re/debia:${{ github.sha }}
