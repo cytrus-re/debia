@@ -37,7 +37,7 @@ jobs:
           registry: docker.pkg.github.com
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
-      - name: Build and push to ghcr
+      - name: Build and push to GPDR
         uses: docker/build-push-action@v2
         with:
           context: .
@@ -45,5 +45,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-            ${{ github.repository_owner }}/debia/debia:dev-latest
-            ${{ github.repository_owner }}/debia/debia:${{ github.run_number }}
+            cytrus-re/debia/debia:dev-latest
+            cytrus-re/debia/debia:${{ github.run_number }}
