@@ -45,4 +45,5 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
+            docker.pkg.github.com/cytrus-re/debia/debia:dev-latest
             cytrus-re/debia/debia:dev-latest
