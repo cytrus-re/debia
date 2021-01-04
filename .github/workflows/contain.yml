@@ -45,7 +45,7 @@ jobs:
           platforms: linux/386,linux/amd64,linux/arm/v6,linux/arm/v7,linux/arm64
           push: true
           tags: |
-            terrific-tea/Debia:dev-latest
-            terrific-tea/Debia:${{ github.run_number }}
-            ghcr.io/terrific-tea/Debia:dev-latest
-            ghcr.io/terrific-tea/Debia:${{ github.run_number }}
+            cytrus-re/debia:dev-latest
+            cytrus-re/debia:${{ github.run_number }}
+            ghcr.io/cytrus-re/debia:dev-latest
+            ghcr.io/cytrus-re/debia:${{ github.run_number }}
