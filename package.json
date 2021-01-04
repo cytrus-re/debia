@@ -38,8 +38,8 @@
 	"dependencies": {
 		"@sapphire/framework": "sapphire-project/framework#build",
 		"@sapphire/pieces": "sapphire-project/pieces#build",
+		"@sapphire/plugin-i18next": "sapphire-project/plugins#build-i18next",
 		"@sapphire/utilities": "^1.0.1",
-		"@scp/in17n": "^1.0.1",
 		"discord.js": "^12.3.1",
 		"i18next": "^19.8.1",
 		"module-alias": "^2.2.2",
