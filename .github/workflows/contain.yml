@@ -51,4 +51,4 @@ jobs:
           push: true
           tags: |
             ghcr.io/cytrus-re/debia:dev-latest
-            ghcr.io/cytrus-re/debia:${{ github.sha }} 
+            ghcr.io/cytrus-re/debia:${{ GITHUB_SHA }} 
