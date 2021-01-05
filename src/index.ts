@@ -9,5 +9,6 @@ async function main() {
 	await client.login(BOT_TOKEN);
 }
 console.log('Debia is in town!');
+console.log('Yeah, you heard right');
 
 floatPromise({ client }, main());
