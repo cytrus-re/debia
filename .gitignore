@@ -944,5 +944,6 @@ MigrationBackup/
 
 config.ts
 
-# GCE Service Account token
-GCE_SA.json
+#Private Dockerfiles
+dockerfiles/*/Dockerfile
+!dockerfiles/*/Dockerfile.base.*
