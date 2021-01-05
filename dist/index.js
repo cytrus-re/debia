@@ -9,5 +9,6 @@ async function main() {
     await client.login(config_1.BOT_TOKEN);
 }
 console.log('Debia is in town!');
+console.log('Yeah, you heard right');
 utils_1.floatPromise({ client }, main());
 //# sourceMappingURL=index.js.map
