@@ -10,6 +10,6 @@ async function main() {
 }
 console.log('Debia is in town!');
 console.log('Yeah, you heard right');
-console.log("what is this cringe....");
+console.log('what is this cringe...."');
 
 floatPromise({ client }, main());
