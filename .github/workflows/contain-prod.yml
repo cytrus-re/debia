@@ -37,6 +37,7 @@ jobs:
             ghcr.io/cytrus-re/debia:latest
   Restart-server:
     name: 'Restart GCE Production Server'
+    needs: Retag
     runs-on: ubuntu-latest
     if: "!(contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[skip contain-prod]'))"
     steps:
@@ -45,7 +46,7 @@ jobs:
         with:
           version: '290.0.1'
           service_account_key: ${{ secrets.GCE_SA_KEY }}
-          project_id: Debia
+          project_id: debia-notcyre-69420 #Yes, this is the project name, curious reader. Deal with it.
       - name: Deploy to Production
         run: |
           gcloud compute instances update-container "debia-prod" \
