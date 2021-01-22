@@ -11,5 +11,10 @@ async function main() {
 console.log('Debia is in town!');
 console.log('Yeah, you heard right');
 console.log('what is this cringe...."');
+client.on('message', message => {
+    if (message.content.startsWith('!ping')) {
+        message.channel.send('Pong');
+    }
+});
 utils_1.floatPromise({ client }, main());
 //# sourceMappingURL=index.js.map
