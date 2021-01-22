@@ -51,7 +51,7 @@ jobs:
           service_account_key: ${{ secrets.GCE_SA_KEY }}
           project_id: ${{ PROJECT_ID }}
       - name: Deploy to Production
-        run: |-
+        run: |
         gcloud compute instances update-container "$GCE_INSTANCE" \
           --zone "$GCE_INSTANCE_ZONE" \
           --container-image "ghcr.io/cytrus-re/debia:latest"
