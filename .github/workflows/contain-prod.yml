@@ -35,7 +35,7 @@ jobs:
           push: true
           tags: |
             ghcr.io/cytrus-re/debia:latest
-  Restart Server:
+  Restart-server:
     name: 'Restart GCE Production Server'
     runs-on: ubuntu-latest
     if: "!(contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[skip contain-prod]'))"
