@@ -43,7 +43,6 @@
 		"discord.js": "^12.3.1",
 		"i18next": "^19.8.1",
 		"module-alias": "^2.2.2",
-		"pm2": "^4.5.1",
 		"tslib": "^2.0.1"
 	},
 	"devDependencies": {

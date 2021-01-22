@@ -6,8 +6,11 @@ WORKDIR /Debia
 # Set hostname var
 ENV HOSTNAME="Docker"
 
-# Copy files over to the vm
+# Copy files over to the container
 COPY ./ /Debia
 
 #Install modules 
 RUN yarn install
+
+#Install pm2 globally
+RUN yarn global add pm2
