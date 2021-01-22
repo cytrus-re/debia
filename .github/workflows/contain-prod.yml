@@ -56,4 +56,3 @@ jobs:
           --zone "$GCE_INSTANCE_ZONE" \
           --container-image "ghcr.io/cytrus-re/debia:latest"
           
-        
