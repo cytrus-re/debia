@@ -1,0 +1,59 @@
+name: Make Docker Container for Production and push to GCE
+ 
+on:
+  workflow_dispatch:
+  release:
+    types: [created, edited, prereleased, released, published]
+jobs:
+  Retag:
+    name: 'Re-tag container'
+    runs-on: ubuntu-latest
+    if: "!(contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[skip contain-prod]'))"
+    steps:
+      - name: Checkout Project
+        uses: actions/checkout@v1
+        with:
+          ref: main
+      - name: Set up QEMU
+        uses: docker/setup-qemu-action@v1
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v1
+        with:
+          registry: ghcr.io
+          username: Devnol
+          password: ${{ secrets.DEVNOL_CR_PAT }}
+      - name: Copy Dockerfile
+        run: cp ./dockerfiles/prod/Dockerfile.base.prod ./dockerfiles/prod/Dockerfile
+      - name: Retag and push to GHCR
+        uses: docker/build-push-action@v2
+        with:
+          context: .
+          file: ./dockerfiles/prod/Dockerfile
+          platforms: linux/amd64
+          push: true
+          tags: |
+            ghcr.io/cytrus-re/debia:latest
+  Restart Server:
+    env:
+      PROJECT_ID: Debia
+      GCE_INSTANCE: debia-prod
+      GCE_INSTANCE_ZONE: us-cental1-a
+    name: 'Restart GCE Production Server'
+    runs-on: ubuntu-latest
+    if: "!(contains(github.event.head_commit.message, '[skip ci]') || contains(github.event.head_commit.message, '[skip contain-prod]'))"
+    steps:
+      - name: Setup Gcloud CLI
+        uses: google-github-actions/setup-gcloud@master
+        with:
+          version: '290.0.1'
+          service_account_key: ${{ secrets.GCE_SA_KEY }}
+          project_id: ${{ PROJECT_ID }}
+      - name: Deploy to Production
+        run: |-
+        gcloud compute instances update-container "$GCE_INSTANCE" \
+          --zone "$GCE_INSTANCE_ZONE" \
+          --container-image "ghcr.io/cytrus-re/debia:latest"
+          
+        

@@ -6,7 +6,7 @@ FROM ghcr.io/cytrus-re/debia:dev-latest
 #Token goes here
 ENV BOT_TOKEN="" 
 
-RUN yarn start
+ENTRYPOINT [ "yarn start" ]
 
 #Uncomment below and comment above lines to run in the background, with auto-restart using PM2
 

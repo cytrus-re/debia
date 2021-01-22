@@ -1,10 +1,11 @@
 #For deployment to production server only
-FROM ghcr.io/cytrus-re/debia:latest
+FROM ghcr.io/cytrus-re/debia:dev-latest
 
+#IGNORE BELOW FOR GCE
 #Token goes here
-ENV BOT_TOKEN="TOKEN_HERE"
+#ENV BOT_TOKEN="TOKEN_HERE"
 #This can be automated with ENV variables using the following shell commands:
 #export BTK=ACTUAL_BOT_TOKEN
 #sed "s/TOKEN_HERE/$BTK/" dockerfiles/prod/Dockerfile.base.prod > dockerfiles/prod/Dockerfile
 
-RUN yarn start-watch
+ENTRYPOINT [ "yarn start-watch" ]
