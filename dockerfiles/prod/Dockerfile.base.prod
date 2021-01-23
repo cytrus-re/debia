@@ -8,4 +8,4 @@ FROM ghcr.io/cytrus-re/debia:dev-latest
 #export BTK=ACTUAL_BOT_TOKEN
 #sed "s/TOKEN_HERE/$BTK/" dockerfiles/prod/Dockerfile.base.prod > dockerfiles/prod/Dockerfile
 
-ENTRYPOINT yarn start-watch
+ENTRYPOINT yarn start 
