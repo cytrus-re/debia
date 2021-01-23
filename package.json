@@ -18,7 +18,13 @@
 			"name": "Devnol",
 			"email": "pgkoutsoumanis@gmail.com",
 			"url": "https://github.com/Devnol"
+		},
+		{
+			"name":	"Odyssey346",
+			"email": "odyssey346@tutanota.com",
+			"url":	"https://github.com/Oxygemo"
 		}
+
 	],
 	"license": "MIT",
 	"scripts": {
