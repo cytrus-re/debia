@@ -33,7 +33,7 @@
 		"test:coverage": "jest --coverage",
 		"sversion": "yarn standard-version",
 		"start": "node dist/index.js",
-		"start-watch": "pm2 start dist/index.js --watch"
+		"start-watch": "pm2-runtime start dist/index.js --watch"
 	},
 	"dependencies": {
 		"@sapphire/framework": "sapphire-project/framework#build",
