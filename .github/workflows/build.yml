@@ -12,7 +12,7 @@ on:
       - 'tsconfig.base.json'
       - 'tsconfig.eslint.json'
       - 'Dockerfile'
-
+      - 'dockerfiles/**'
 jobs:
   Build:
     name: 'Build'
